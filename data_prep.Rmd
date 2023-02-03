@@ -1,0 +1,118 @@
+
+```{r}
+library(tidyverse)
+library(lubridate)
+options(scipen = 999)
+
+#Prescribing data for Scotland
+#from https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
+#downloaded most recent 24 months
+#change this to dynamic?
+
+rx <-
+  list.files(pattern = "^pit") %>% 
+  purrr::map_df(~data.table::fread(., 
+                                   sep = ",",
+                                   na.strings = 
+                                     c(NA_character_, ""))) %>%
+  as_tibble() %>%
+  janitor::clean_names() 
+
+#BNF file
+#https://applications.nhsbsa.nhs.uk/infosystems/data/showDataSelector.do?reportId=126
+
+#BNF data 
+bnf <-
+  readr::read_csv("20220905_1662367590394_BNF_Code_Information.csv") %>%
+  janitor::clean_names() %>%
+  mutate(
+    dose = str_sub(bnf_presentation_code, 12, 13),
+    generic = str_sub(bnf_presentation_code, 10, 11),
+    bnf_chemical_dose = paste(bnf_chemical_substance, dose, sep = "_")) 
+
+bnf_chemical <-
+  bnf %>%
+  group_by(bnf_chemical_substance) %>%
+  slice_head() %>%
+  select(bnf_chapter:bnf_chemical_substance_code)
+
+bnf_paragraph <-
+  bnf %>%
+  group_by(bnf_paragraph) %>%
+  slice_head() %>%
+  select(bnf_chapter:bnf_paragraph_code)
+
+bnf_section <-
+  bnf %>%
+  group_by(bnf_section) %>%
+  slice_head() %>%
+  select(bnf_chapter:bnf_section_code)
+```
+
+
+```{r}
+rx <-
+  rx %>%
+  select(bnf_item_code, number_of_paid_items, paid_date_month) %>%
+  mutate(year = substr(paid_date_month, 1, 4)) %>%
+  select(-paid_date_month)
+
+rx_year <-
+rx %>%
+  group_by(bnf_item_code, year) %>%
+  summarise(total_rx = sum(number_of_paid_items),
+            .groups = "drop") %>%
+  pivot_wider(names_from = year, values_from = total_rx, 
+              values_fill = 0, names_glue = "{.value}_{year}") %>%
+  mutate(difference = total_rx_2022 - total_rx_2019,
+         prop_difference = difference / total_rx_2019)
+```
+
+
+```{r}
+#add BNF data to prescribing
+rx_year <-
+  left_join(rx_year, bnf, by = c("bnf_item_code" = "bnf_presentation_code")) 
+
+rx_year_chem <-
+rx_year %>%
+  group_by(bnf_chemical_substance) %>%
+  summarise(total_rx_2019 = sum(total_rx_2019),
+            total_rx_2022 = sum(total_rx_2022),
+            diff = total_rx_2022 - total_rx_2019,
+            prop_diff = diff / total_rx_2019)
+
+rx_year_chem <-
+  rx_year_chem %>%
+  left_join(., bnf_chemical, by = "bnf_chemical_substance") 
+  
+
+#quantile(rx_year_chem$total_rx_2019, probs = seq(0,1,0.01))
+
+rx_year_para <-
+rx_year %>%
+  group_by(bnf_paragraph) %>%
+  summarise(total_rx_2019 = sum(total_rx_2019),
+            total_rx_2022 = sum(total_rx_2022),
+            diff = total_rx_2022 - total_rx_2019,
+            prop_diff = diff / total_rx_2019)
+
+rx_year_para <-
+  rx_year_para %>%
+  left_join(., bnf_paragraph, by = "bnf_paragraph") %>%
+  write_csv("rx_year_para.csv")
+  
+
+rx_year_section <-
+rx_year %>%
+  group_by(bnf_section) %>%
+  summarise(total_rx_2019 = sum(total_rx_2019),
+            total_rx_2022 = sum(total_rx_2022),
+            diff = total_rx_2022 - total_rx_2019,
+            prop_diff = diff / total_rx_2019)
+
+rx_year_section <-
+  rx_year_section %>%
+  left_join(., bnf_section, by = "bnf_section")
+
+```

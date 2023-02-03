@@ -1,0 +1,157 @@
+---
+title: "Prescribing in Scotland"
+output: html_document
+---
+
+```{r, message = F, echo = F, warning = F}
+library(tidyverse)
+library(gt)
+
+knitr::opts_chunk$set(message = F, echo = F, warning = F)
+
+rx_year_para <- read_csv("rx_year_para.csv")
+```
+
+```{r}
+filtered_para <-
+rx_year_para %>%
+  filter(str_detect(bnf_chapter, "Appliance") == F) %>%
+  filter(str_detect(bnf_chapter, "Dressing") == F) %>%
+  filter(str_detect(bnf_chapter, "Skin") == F) %>%
+  filter(str_detect(bnf_paragraph, "topical NSAIDs") == F) %>%
+  filter(str_detect(bnf_paragraph, "lubricant") == F) %>%
+  filter(str_detect(bnf_paragraph, "monitor") == F) %>%
+  filter(str_detect(bnf_paragraph, "Local anaesthetics") == F) %>%
+  filter(str_detect(bnf_paragraph, "Food") == F) %>%
+  filter(total_rx_2019 >= 100000 | total_rx_2022 >= 100000) 
+```
+
+<br>
+
+### Drugs with largest **increase** in numbers of prescriptions
+
+```{r}
+
+filtered_para %>%
+  arrange(desc(diff)) %>%
+  slice(1:10) %>%
+  select(bnf_paragraph:prop_diff) %>%
+  gt() %>%
+  cols_label(bnf_paragraph = "Drug Class",
+             total_rx_2019 = "Rx 2019",
+             total_rx_2022 = "Rx 2022",
+             diff = "Increase",
+             prop_diff = "%") %>%
+  fmt_number(c(total_rx_2019, total_rx_2022, diff),
+             decimals = 0,
+             use_seps = T) %>%
+  fmt_percent(prop_diff,
+              decimals = 0) %>%
+  tab_options(table.align = "left",
+              data_row.padding = 0,
+              column_labels.font.weight = "bold")
+
+#present unfiltered too
+#big total rx for medicated plasters
+```
+
+<br>
+
+### Drugs with largest **percentage increase** in prescriptions
+
+```{r}
+
+filtered_para %>%
+  arrange(desc(prop_diff)) %>%
+  slice(1:10) %>%
+  select(bnf_paragraph:prop_diff) %>%
+  gt() %>%
+  cols_label(bnf_paragraph = "Drug Class",
+             total_rx_2019 = "Rx 2019",
+             total_rx_2022 = "Rx 2022",
+             diff = "Increase",
+             prop_diff = "%") %>%
+  fmt_number(c(total_rx_2019, total_rx_2022, diff),
+             decimals = 0,
+             use_seps = T) %>%
+  fmt_percent(prop_diff,
+              decimals = 0) %>%
+  tab_options(table.align = "left",
+              data_row.padding = 0,
+              column_labels.font.weight = "bold")
+
+```
+
+<br>
+
+### Drugs with largest **decrease** in numbers of prescriptions
+
+```{r}
+
+filtered_para %>%
+  arrange(diff) %>%
+  slice(1:10) %>%
+  select(bnf_paragraph:prop_diff) %>%
+  gt() %>%
+  cols_label(bnf_paragraph = "Drug Class",
+             total_rx_2019 = "Rx 2019",
+             total_rx_2022 = "Rx 2022",
+             diff = "Decrease",
+             prop_diff = "%") %>%
+  fmt_number(c(total_rx_2019, total_rx_2022, diff),
+             decimals = 0,
+             use_seps = T) %>%
+  fmt_percent(prop_diff,
+              decimals = 0) %>%
+  tab_options(table.align = "left",
+              data_row.padding = 0,
+              column_labels.font.weight = "bold")
+
+#present unfiltered too
+#big total rx for medicated plasters
+```
+
+<br>
+
+### Drugs with largest **percentage decrease** in prescriptions
+
+```{r}
+
+filtered_para %>%
+  arrange(prop_diff) %>%
+  slice(1:10) %>%
+  select(bnf_paragraph:prop_diff) %>%
+  gt() %>%
+  cols_label(bnf_paragraph = "Drug Class",
+             total_rx_2019 = "Rx 2019",
+             total_rx_2022 = "Rx 2022",
+             diff = "Decrease",
+             prop_diff = "%") %>%
+  fmt_number(c(total_rx_2019, total_rx_2022, diff),
+             decimals = 0,
+             use_seps = T) %>%
+  fmt_percent(prop_diff,
+              decimals = 0) %>%
+  tab_options(table.align = "left",
+              data_row.padding = 0,
+              column_labels.font.weight = "bold")
+
+```
+
+<br>
+
+### Data and Methods
+
+This analysis includes all prescriptions in Scotland dispensed outside of hospitals. Prescriptions for appliances, food, and topical skin and eye care have been excluded.
+
+Prescribing data were downloaded from here <https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community>
+
+A drug class is all medication given the same paragraph code by the BNF
+
+BNF data were downloaded from here <https://applications.nhsbsa.nhs.uk/infosystems/data/showDataSelector.do?reportId=126>
+
+Number of prescriptions was calculated as the sum of number of items paid, as specified here <https://www.isdscotland.org/Health-topics/Prescribing-and-medicines/_docs/Open_Data_Glossary_of_Terms.pdf?1>
+
+All code to produce this report is here <https://github.com/JessButler/scotland_prescriptions>
+
+Any questions or comments please email [JessicaButler\@abdn.ac.uk](mailto:JessicaButler@abdn.ac.uk){.email}

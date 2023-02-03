@@ -1,0 +1,662 @@
+bnf_paragraph,total_rx_2019,total_rx_2022,diff,prop_diff,bnf_chapter,bnf_chapter_code,bnf_section,bnf_section_code,bnf_paragraph_code
+Acids,3,6,3,1,Other Drugs and Preparations,19,Acids,1906,190600
+Adrenoceptor agonists,1988278,2148781,160503,0.08072462703907603,Respiratory System,03,Bronchodilators,0301,030101
+Alcohol dependence,44043,48254,4211,0.0956111073269305,Central Nervous System,04,Drugs used in substance dependence,0410,041001
+Alkylating drugs,79,45,-34,-0.43037974683544306,Malignant Disease and Immunosuppression,08,Cytotoxic drugs,0801,080101
+Allergen immunotherapy,16,914,898,56.125,Respiratory System,03,"Antihistamines, hyposensitisation and allergic emergencies",0304,030402
+Allergic emergencies,35069,34116,-953,-0.027174997861359036,Respiratory System,03,"Antihistamines, hyposensitisation and allergic emergencies",0304,030403
+Alpha-adrenoceptor blocking drugs,338647,332287,-6360,-0.018780618165818684,Cardiovascular System,02,Hypertension and heart failure,0205,020504
+Amino acids and nutritional agents,388,481,93,0.23969072164948454,Nutrition and Blood,09,Health supplements,0911,091101
+Aminoglycosides,623,481,-142,-0.22792937399678972,Infections,05,Antibacterial drugs,0501,050104
+Aminosalicylates,216042,216088,46,2.129215615482175e-4,Gastro-Intestinal System,01,Chronic bowel disorders,0105,010501
+Antacids and simeticone,35570,21207,-14363,-0.4037953331459095,Gastro-Intestinal System,01,Dyspepsia and gastro-oesophageal reflux disease,0101,010101
+Anti-lymphocyte monoclonal antibodies,0,1,1,Inf,Malignant Disease and Immunosuppression,08,Drugs affecting the immune response,0802,080203
+Antibacterial preparations,147519,110764,-36755,-0.24915434621980898,Skin,13,Anti-infective skin preparations,1310,131001
+Antibacterials,175329,172341,-2988,-0.01704224629125815,Eye,11,Anti-infective eye preparations,1103,110301
+Antidiabetic drugs,2041674,2340138,298464,0.14618592390362026,Endocrine System,06,Drugs used in diabetes,0601,060102
+Antifibrinolytic drugs and haemostatics,42169,47870,5701,0.1351940999312291,Cardiovascular System,02,Antifibrinolytic drugs and haemostatics,0211,021100
+Antifibrotics,85,66,-19,-0.2235294117647059,Respiratory System,03,Antifibrotics,0311,031101
+Antifungal preparations,255528,279322,23794,0.0931169969631508,Skin,13,Anti-infective skin preparations,1310,131002
+Antihistamines,1551946,1754695,202749,0.13064178779416294,Respiratory System,03,"Antihistamines, hyposensitisation and allergic emergencies",0304,030401
+Antileprotic drugs,4120,4060,-60,-0.014563106796116505,Infections,05,Antibacterial drugs,0501,050110
+Antimalarials,158470,127498,-30972,-0.1954439326055405,Infections,05,Antiprotozoal drugs,0504,050401
+Antimetabolites,11549,9975,-1574,-0.13628885617802408,Malignant Disease and Immunosuppression,08,Cytotoxic drugs,0801,080103
+Antimigraine drugs,406058,415887,9829,0.024205901619965622,Central Nervous System,04,Analgesics,0407,040704
+Antimotility drugs,204861,209138,4277,0.020877570645462046,Gastro-Intestinal System,01,Acute diarrhoea,0104,010402
+Antimuscarinic bronchodilators,432495,294608,-137887,-0.3188175585844923,Respiratory System,03,Bronchodilators,0301,030102
+Antimuscarinic drugs,728,659,-69,-0.09478021978021978,Anaesthesia,15,General anaesthesia,1501,150103
+Antimuscarinic drugs used in parkinsonism,51190,50239,-951,-0.01857784723578824,Central Nervous System,04,Drugs used in parkinsonism and related disorders,0409,040902
+Antiperspirants,10592,8012,-2580,-0.24358006042296074,Skin,13,Antiperspirants,1312,131200
+Antiplatelet drugs,2338136,2262670,-75466,-0.03227613791498869,Cardiovascular System,02,Antiplatelet drugs,0209,020900
+Antiproliferative immunosuppressants,123843,121147,-2696,-0.02176949847791155,Malignant Disease and Immunosuppression,08,Drugs affecting the immune response,0802,080201
+Antipsychotic depot injections,10559,10664,105,0.009944123496543233,Central Nervous System,04,Drugs used in psychoses and related disorders,0402,040202
+Antipsychotic drugs,786687,882697,96010,0.12204345565644278,Central Nervous System,04,Drugs used in psychoses and related disorders,0402,040201
+Antispasmodics and other drugs altering gut motility,551734,569476,17742,0.032156800197196474,Gastro-Intestinal System,01,Antispasmodics and other drugs altering gut motility,0102,010200
+Antithyroid drugs,40222,45748,5526,0.1373874993784496,Endocrine System,06,Thyroid and antithyroid drugs,0602,060202
+Antituberculosis drugs,6124,4354,-1770,-0.2890267798824298,Infections,05,Antibacterial drugs,0501,050109
+Antiviral preparations,41048,42309,1261,0.030720132527772365,Skin,13,Anti-infective skin preparations,1310,131003
+Antivirals,2589,2449,-140,-0.05407493240633449,Eye,11,Anti-infective eye preparations,1103,110303
+Anxiolytics,858295,835164,-23131,-0.02694994145369599,Central Nervous System,04,Hypnotics and anxiolytics,0401,040102
+Aromatic inhalations,337,4,-333,-0.9881305637982196,Respiratory System,03,Aromatic inhalations,0308,030800
+Barrier preparations,96028,84062,-11966,-0.1246094888990711,Skin,13,Emollient and barrier preparations,1302,130202
+"Base,diluent, suspending agents and stabilisers",28677,27695,-982,-0.034243470376957144,Other Drugs and Preparations,19,"Base,diluent, suspending agents and stabilisers",1907,190700
+Beta-adrenoceptor blocking drugs,2775554,2886039,110485,0.039806467465594256,Cardiovascular System,02,Beta-adrenoceptor blocking drugs,0204,020400
+Bisphosphonates and other drugs,436340,390334,-46006,-0.10543612779025531,Endocrine System,06,Drugs affecting bone metabolism,0606,060602
+Bladder instillations and urological surgery,116,83,-33,-0.28448275862068967,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Drugs for genito-urinary disorders,0704,070404
+Bowel cleansing preparations,1789,1682,-107,-0.05980994969256568,Gastro-Intestinal System,01,Laxatives,0106,010605
+Bromocriptine and other dopaminergic drugs,5327,5833,506,0.09498779801013704,Endocrine System,06,Other endocrine drugs,0607,060701
+Bulk-forming laxatives,115314,153831,38517,0.33401841927259485,Gastro-Intestinal System,01,Laxatives,0106,010601
+Calcitonin and parathyroid hormone,133,108,-25,-0.18796992481203006,Endocrine System,06,Drugs affecting bone metabolism,0606,060601
+Calcium-channel blockers,2353389,2495895,142506,0.06055352515032576,Cardiovascular System,02,"Nitrates, calcium-channel blockers & other antianginal drugs",0206,020602
+Calcium and magnesium,37137,39206,2069,0.05571263160729192,Nutrition and Blood,09,Minerals,0905,090501
+Camouflagers,4009,3086,-923,-0.23023197804938889,Skin,13,Sunscreens and camouflagers,1308,130802
+Cardiac glycosides,187367,176596,-10771,-0.0574861101474646,Cardiovascular System,02,Positive inotropic drugs,0201,020101
+Cardiopulmonary resuscitation,84,0,-84,-1,Cardiovascular System,02,Sympathomimetics,0207,020703
+Cationic surfactants and soaps,992,793,-199,-0.2006048387096774,Skin,13,"Skin cleansers,antiseptics and desloughing agents",1311,131103
+Centrally-acting antihypertensive drugs,19455,17750,-1705,-0.08763813929581085,Cardiovascular System,02,Hypertension and heart failure,0205,020502
+Centrally-acting appetite suppressants,2,1,-1,-0.5,Central Nervous System,04,Drugs used in the treatment of obesity,0405,040502
+Cephalosporins and other beta-lactams,55153,57455,2302,0.041738436712418184,Infections,05,Antibacterial drugs,0501,050102
+Chelates and complexes,2093,3844,1751,0.8365981844242714,Gastro-Intestinal System,01,Antisecretory drugs and mucosal protectants,0103,010303
+Chlorhexidine salts,15052,14948,-104,-0.006909380813180973,Skin,13,"Skin cleansers,antiseptics and desloughing agents",1311,131102
+Chlorine and iodine,319,159,-160,-0.5015673981191222,Skin,13,"Skin cleansers,antiseptics and desloughing agents",1311,131104
+Clindamycin and lincomycin,6724,6793,69,0.010261748958953005,Infections,05,Antibacterial drugs,0501,050106
+CNS stimulants and drugs used for ADHD,143247,199410,56163,0.39207103813692434,Central Nervous System,04,CNS stimulants and drugs used for ADHD,0404,040400
+Combined hormonal contraceptives and systems,302517,236484,-66033,-0.21827864219200904,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Contraceptives,0703,070301
+Compound alginates and proprietary indigestion preparations,495208,557791,62583,0.12637719907594386,Gastro-Intestinal System,01,Dyspepsia and gastro-oesophageal reflux disease,0101,010102
+Compound bronchodilator preparations,123681,151350,27669,0.22371261551895602,Respiratory System,03,Bronchodilators,0301,030104
+Compound vitamin and mineral formulations,116,7176,7060,60.86206896551724,Nutrition and Blood,09,Compound vitamin and mineral formulations,0910,091000
+Concentrated waters,218,341,123,0.5642201834862385,Other Drugs and Preparations,19,Acids,1906,190601
+Control of epilepsy,2174907,2381594,206687,0.0950325692087064,Central Nervous System,04,Antiepileptic drugs,0408,040801
+Copound haemorrhoidal preparations with corticosteroid,112850,116532,3682,0.0326273814798405,Gastro-Intestinal System,01,Local preparations for anal and rectal disorders,0107,010702
+Cordials and soft drinks,48,13,-35,-0.7291666666666666,Other Drugs and Preparations,19,Cordials and soft drinks,1913,191300
+Coronavirus,0,8719,8719,Inf,Infections,05,Antiviral drugs,0503,050306
+Corticosteroids,104972,89918,-15054,-0.143409671150402,Gastro-Intestinal System,01,Chronic bowel disorders,0105,010502
+Corticosteroids (respiratory),1673060,1716664,43604,0.026062424539466608,Respiratory System,03,Corticosteroids (respiratory),0302,030200
+Corticosteroids and other immunosuppressants,58304,58750,446,0.0076495609220636664,Malignant Disease and Immunosuppression,08,Drugs affecting the immune response,0802,080202
+Cough suppressants,36467,21273,-15194,-0.4166506704691913,Respiratory System,03,Cough preparations,0309,030901
+Cromoglycate and related therapy,1019,173,-846,-0.830225711481845,Respiratory System,03,"Cromoglycate, leukotriene and phosphodesterase type-4 inhib",0303,030301
+Dementia,227507,220830,-6677,-0.02934854751721925,Central Nervous System,04,Drugs for dementia,0411,041100
+Diabetic diagnostic and monitoring agents,549452,474905,-74547,-0.13567518181752,Endocrine System,06,Drugs used in diabetes,0601,060106
+Digestive aids,1578,996,-582,-0.3688212927756654,Nutrition and Blood,09,Health supplements,0911,091104
+Diuretics with potassium,3,4,1,0.3333333333333333,Cardiovascular System,02,Diuretics,0202,020208
+Dopaminergic drugs used in parkinsonism,195374,239554,44180,0.22613039606088836,Central Nervous System,04,Drugs used in parkinsonism and related disorders,0409,040901
+Drugs affecting biliary composition and flow,25194,27731,2537,0.1006985790267524,Gastro-Intestinal System,01,Drugs affecting intestinal secretions,0109,010901
+Drugs affecting gonadotrophins,451,42,-409,-0.9068736141906873,Endocrine System,06,Other endocrine drugs,0607,060702
+Drugs affecting immune response,0,1,1,Inf,Gastro-Intestinal System,01,Chronic bowel disorders,0105,010503
+Drugs affecting the immune response,16525,20976,4451,0.26934947049924357,Skin,13,Preparations for eczema and psoriasis,1305,130503
+Drugs for arrhythmias,54032,53045,-987,-0.01826695291679005,Cardiovascular System,02,Anti-arrhythmic drugs,0203,020302
+Drugs for cytotoxic-induced side-effects,483,425,-58,-0.12008281573498965,Malignant Disease and Immunosuppression,08,Cytotoxic drugs,0801,080100
+Drugs for erectile dysfunction,296972,277284,-19688,-0.0662958123998222,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Drugs for genito-urinary disorders,0704,070405
+Drugs for oral ulceration and inflammation,180843,187970,7127,0.03940987486383216,"Ear, Nose and Oropharynx",12,Drugs acting on the oropharynx,1203,120301
+Drugs for pneumocystis pneumonia,35,113,78,2.2285714285714286,Infections,05,Antiprotozoal drugs,0504,050408
+Drugs for premature ejaculation,429,368,-61,-0.14219114219114218,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Drugs for genito-urinary disorders,0704,070406
+Drugs for threadworms,41690,50934,9244,0.22173183017510195,Infections,05,Anthelmintics,0505,050501
+Drugs for urinary frequency enuresis and incontinence,541351,567414,26063,0.04814436474671701,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Drugs for genito-urinary disorders,0704,070402
+Drugs for urinary retention,553340,604711,51371,0.09283803809592656,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Drugs for genito-urinary disorders,0704,070401
+Drugs used for mania and hypomania,89973,74557,-15416,-0.17134029097618175,Central Nervous System,04,Drugs used in psychoses and related disorders,0402,040203
+Drugs used in megaloblastic anaemias,816954,1004543,187589,0.22962002756581154,Nutrition and Blood,09,Anaemias and some other blood disorders,0901,090102
+Drugs used in metabolic disorders,597,751,154,0.25795644891122277,Nutrition and Blood,09,Metabolic disorders,0908,090801
+Drugs used in nasal allergy,805583,799206,-6377,-0.00791600617192766,"Ear, Nose and Oropharynx",12,Drugs acting on the nose,1202,120201
+Drugs used in nausea and vertigo,567056,579659,12603,0.022225318134364156,Central Nervous System,04,Drugs used in nausea and vertigo,0406,040600
+Drugs used in neutropenia,46,18,-28,-0.6086956521739131,Nutrition and Blood,09,Anaemias and some other blood disorders,0901,090106
+Drugs used in platelet disorders,294,153,-141,-0.47959183673469385,Nutrition and Blood,09,Anaemias and some other blood disorders,0901,090104
+Drugs used in status epilepticus,6085,9089,3004,0.4936729663105998,Central Nervous System,04,Antiepileptic drugs,0408,040802
+Drugs used in urological pain,5291,8872,3581,0.6768096768096769,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Drugs for genito-urinary disorders,0704,070403
+Drugs which enhance neuromuscular transmission,6203,6579,376,0.06061583104949218,Musculoskeletal and Joint Diseases,10,Drugs used in neuromuscular disorders,1002,100201
+DUMMY PARAGRAPH 200100,182,107,-75,-0.41208791208791207,Dressings,20,Absorbent Cottons,2001,200100
+DUMMY PARAGRAPH 200201,21,15,-6,-0.2857142857142857,Dressings,20,Arm Sling/Bandages,2002,200201
+DUMMY PARAGRAPH 200202,75337,62753,-12584,-0.16703611771108487,Dressings,20,Arm Sling/Bandages,2002,200202
+DUMMY PARAGRAPH 200300,0,107,107,Inf,Dressings,20,Wound Management & Other Dressings,2003,200300
+DUMMY PARAGRAPH 200301,191853,182587,-9266,-0.048297394359222943,Dressings,20,Wound Management & Other Dressings,2003,200301
+DUMMY PARAGRAPH 200302,4256,3331,-925,-0.21734022556390978,Dressings,20,Wound Management & Other Dressings,2003,200302
+DUMMY PARAGRAPH 200303,1497,1691,194,0.1295925183700735,Dressings,20,Wound Management & Other Dressings,2003,200303
+DUMMY PARAGRAPH 200304,13091,11774,-1317,-0.10060346803147201,Dressings,20,Wound Management & Other Dressings,2003,200304
+DUMMY PARAGRAPH 200305,6929,5683,-1246,-0.17982392841679895,Dressings,20,Wound Management & Other Dressings,2003,200305
+DUMMY PARAGRAPH 200306,36696,30213,-6483,-0.17666775670372792,Dressings,20,Wound Management & Other Dressings,2003,200306
+DUMMY PARAGRAPH 200307,1700,1650,-50,-0.029411764705882353,Dressings,20,Wound Management & Other Dressings,2003,200307
+DUMMY PARAGRAPH 200308,9473,7087,-2386,-0.2518737464372427,Dressings,20,Wound Management & Other Dressings,2003,200308
+DUMMY PARAGRAPH 200309,115230,91442,-23788,-0.20643929532239869,Dressings,20,Wound Management & Other Dressings,2003,200309
+DUMMY PARAGRAPH 200310,1931,1654,-277,-0.14344899016053858,Dressings,20,Wound Management & Other Dressings,2003,200310
+DUMMY PARAGRAPH 200312,2703,1551,-1152,-0.4261931187569367,Dressings,20,Wound Management & Other Dressings,2003,200312
+DUMMY PARAGRAPH 200313,737,638,-99,-0.13432835820895522,Dressings,20,Wound Management & Other Dressings,2003,200313
+DUMMY PARAGRAPH 200314,1695,1124,-571,-0.3368731563421829,Dressings,20,Wound Management & Other Dressings,2003,200314
+DUMMY PARAGRAPH 200315,956,943,-13,-0.013598326359832637,Dressings,20,Wound Management & Other Dressings,2003,200315
+DUMMY PARAGRAPH 200316,16832,15318,-1514,-0.0899477186311787,Dressings,20,Wound Management & Other Dressings,2003,200316
+DUMMY PARAGRAPH 200317,73599,74426,827,0.011236565714208073,Dressings,20,Wound Management & Other Dressings,2003,200317
+DUMMY PARAGRAPH 200319,461,299,-162,-0.351409978308026,Dressings,20,Wound Management & Other Dressings,2003,200319
+DUMMY PARAGRAPH 200320,89,0,-89,-1,Dressings,20,Wound Management & Other Dressings,2003,200320
+DUMMY PARAGRAPH 200321,1081,959,-122,-0.11285846438482887,Dressings,20,Wound Management & Other Dressings,2003,200321
+DUMMY PARAGRAPH 200322,209,188,-21,-0.10047846889952153,Dressings,20,Wound Management & Other Dressings,2003,200322
+DUMMY PARAGRAPH 200324,186,120,-66,-0.3548387096774194,Dressings,20,Wound Management & Other Dressings,2003,200324
+DUMMY PARAGRAPH 200325,246,162,-84,-0.34146341463414637,Dressings,20,Wound Management & Other Dressings,2003,200325
+DUMMY PARAGRAPH 200328,8,235,227,28.375,Dressings,20,Wound Management & Other Dressings,2003,200328
+DUMMY PARAGRAPH 200329,156,205,49,0.3141025641025641,Dressings,20,Wound Management & Other Dressings,2003,200329
+DUMMY PARAGRAPH 200330,1,6486,6485,6485,Dressings,20,Wound Management & Other Dressings,2003,200330
+DUMMY PARAGRAPH 200402,9735,8558,-1177,-0.12090395480225989,Dressings,20,Gauzes & Gauze Tissue,2004,200402
+DUMMY PARAGRAPH 200403,230,138,-92,-0.4,Dressings,20,Gauzes & Gauze Tissue,2004,200403
+DUMMY PARAGRAPH 200501,200,200,0,0,Dressings,20,Tracheostomy & Laryngectomy Appliances,2005,200501
+DUMMY PARAGRAPH 200502,2367,2129,-238,-0.10054921841994086,Dressings,20,Tracheostomy & Laryngectomy Appliances,2005,200502
+DUMMY PARAGRAPH 200503,7593,4770,-2823,-0.37178980640063214,Dressings,20,Tracheostomy & Laryngectomy Appliances,2005,200503
+DUMMY PARAGRAPH 200504,2818,3489,671,0.23811213626685593,Dressings,20,Tracheostomy & Laryngectomy Appliances,2005,200504
+DUMMY PARAGRAPH 200505,787,942,155,0.19695044472681067,Dressings,20,Tracheostomy & Laryngectomy Appliances,2005,200505
+DUMMY PARAGRAPH 200506,956,5368,4412,4.615062761506276,Dressings,20,Tracheostomy & Laryngectomy Appliances,2005,200506
+DUMMY PARAGRAPH 200700,16,19,3,0.1875,Dressings,20,Lints,2007,200700
+DUMMY PARAGRAPH 200900,16005,14789,-1216,-0.0759762574195564,Dressings,20,Stockinette,2009,200900
+DUMMY PARAGRAPH 201000,27375,23429,-3946,-0.14414611872146119,Dressings,20,Surgical Adhesive Tape,2010,201000
+DUMMY PARAGRAPH 201100,99,66,-33,-0.3333333333333333,Dressings,20,Surgical Sutures,2011,201100
+DUMMY PARAGRAPH 201200,57930,46061,-11869,-0.20488520628344553,Dressings,20,Swabs,2012,201200
+DUMMY PARAGRAPH 201400,1131,739,-392,-0.34659593280282935,Dressings,20,"Skin Closure Strips, Sterile",2014,201400
+DUMMY PARAGRAPH 201500,146,92,-54,-0.3698630136986301,Dressings,20,"Skin Adhesive, Sterile",2015,201500
+DUMMY PARAGRAPH 201700,203,137,-66,-0.3251231527093596,Dressings,20,Cervical Collar,2017,201700
+DUMMY PARAGRAPH 201800,1,0,-1,-1,Dressings,20,Cellulose Wadding BP 1988,2018,201800
+DUMMY PARAGRAPH 202000,2987,1473,-1514,-0.5068630733177101,Dressings,20,Silk Garments,2020,202000
+DUMMY PARAGRAPH 210100,0,1727,1727,Inf,Appliances,21,Other Appliances,2101,210100
+DUMMY PARAGRAPH 210101,7,10,3,0.42857142857142855,Appliances,21,Other Appliances,2101,210101
+DUMMY PARAGRAPH 210102,125837,134967,9130,0.07255417722927279,Appliances,21,Other Appliances,2101,210102
+DUMMY PARAGRAPH 210106,329,79,-250,-0.7598784194528876,Appliances,21,Other Appliances,2101,210106
+DUMMY PARAGRAPH 210108,17,21,4,0.23529411764705882,Appliances,21,Other Appliances,2101,210108
+DUMMY PARAGRAPH 210109,505135,513690,8555,0.01693606659605848,Appliances,21,Other Appliances,2101,210109
+DUMMY PARAGRAPH 210112,9936,10421,485,0.04881239935587762,Appliances,21,Other Appliances,2101,210112
+DUMMY PARAGRAPH 210113,14650,11686,-2964,-0.20232081911262798,Appliances,21,Other Appliances,2101,210113
+DUMMY PARAGRAPH 210115,169,133,-36,-0.21301775147928995,Appliances,21,Other Appliances,2101,210115
+DUMMY PARAGRAPH 210120,39,33,-6,-0.15384615384615385,Appliances,21,Other Appliances,2101,210120
+DUMMY PARAGRAPH 210121,0,5,5,Inf,Appliances,21,Other Appliances,2101,210121
+DUMMY PARAGRAPH 210122,5363,4144,-1219,-0.22729815401827336,Appliances,21,Other Appliances,2101,210122
+DUMMY PARAGRAPH 210123,494,560,66,0.13360323886639677,Appliances,21,Other Appliances,2101,210123
+DUMMY PARAGRAPH 210124,10618,5599,-5019,-0.47268788849124127,Appliances,21,Other Appliances,2101,210124
+DUMMY PARAGRAPH 210125,80507,102985,22478,0.2792055349224291,Appliances,21,Other Appliances,2101,210125
+DUMMY PARAGRAPH 210126,1,1507,1506,1506,Appliances,21,Other Appliances,2101,210126
+DUMMY PARAGRAPH 210200,100813,102873,2060,0.02043387261563489,Appliances,21,Catheters,2102,210200
+DUMMY PARAGRAPH 210300,317,151,-166,-0.5236593059936908,Appliances,21,Chiropody Appliances,2103,210300
+DUMMY PARAGRAPH 210400,2216,1616,-600,-0.27075812274368233,Appliances,21,Contraceptive Devices,2104,210400
+DUMMY PARAGRAPH 210601,10,9,-1,-0.1,Appliances,21,Trusses,2106,210601
+DUMMY PARAGRAPH 210602,129,132,3,0.023255813953488372,Appliances,21,Trusses,2106,210602
+DUMMY PARAGRAPH 210701,8,6,-2,-0.25,Appliances,21,Elastic Hosiery,2107,210701
+DUMMY PARAGRAPH 210703,106,59,-47,-0.44339622641509435,Appliances,21,Elastic Hosiery,2107,210703
+DUMMY PARAGRAPH 210704,23679,21610,-2069,-0.08737700071793572,Appliances,21,Elastic Hosiery,2107,210704
+DUMMY PARAGRAPH 210705,21312,15942,-5370,-0.25197072072072074,Appliances,21,Elastic Hosiery,2107,210705
+DUMMY PARAGRAPH 210706,3413,3636,223,0.06533841195429241,Appliances,21,Elastic Hosiery,2107,210706
+DUMMY PARAGRAPH 210800,3,2,-1,-0.3333333333333333,Appliances,21,Oxygen Masks,2108,210800
+DUMMY PARAGRAPH 211200,26321,38595,12274,0.46631966870559627,Appliances,21,Peak Flow Meters,2112,211200
+DUMMY PARAGRAPH 211300,7618,7024,-594,-0.07797322131793122,Appliances,21,Catheter Maintenance Products,2113,211300
+DUMMY PARAGRAPH 211301,167,127,-40,-0.23952095808383234,Appliances,21,Catheter Maintenance Products,2113,211301
+DUMMY PARAGRAPH 211400,8093,5328,-2765,-0.3416532806128753,Appliances,21,Lubricant Gels,2114,211400
+DUMMY PARAGRAPH 211600,39934,37695,-2239,-0.05606751139379977,Appliances,21,Irrigation Solutions,2116,211600
+DUMMY PARAGRAPH 211800,1223,1012,-211,-0.17252657399836469,Appliances,21,Vacuum Pumps for Erectile Dysfunction,2118,211800
+DUMMY PARAGRAPH 211900,2351,2431,80,0.034028073160357296,Appliances,21,Oral Film Forming Agents,2119,211900
+DUMMY PARAGRAPH 212000,7342,6980,-362,-0.04930536638518115,Appliances,21,Venous Ulcer Compression System,2120,212000
+DUMMY PARAGRAPH 212100,52913,51556,-1357,-0.02564587152495606,Appliances,21,Dry Mouth Products,2121,212100
+DUMMY PARAGRAPH 212200,668471,736851,68380,0.10229314360682812,Appliances,21,Emollients,2122,212200
+DUMMY PARAGRAPH 212300,27896,33167,5271,0.18895182104961286,Appliances,21,Vaginal Moisturisers,2123,212300
+DUMMY PARAGRAPH 212400,75415,81585,6170,0.08181396273950806,Appliances,21,Nasal Products,2124,212400
+DUMMY PARAGRAPH 212500,147,155,8,0.05442176870748299,Appliances,21,Vaginal Dilators,2125,212500
+DUMMY PARAGRAPH 212700,19688,21227,1539,0.07816944331572531,Appliances,21,Lymphoedema Garments,2127,212700
+DUMMY PARAGRAPH 212800,7902,9727,1825,0.23095418881295873,Appliances,21,Anal Irrigation System,2128,212800
+DUMMY PARAGRAPH 212900,2387,2344,-43,-0.018014243820695434,Appliances,21,Pressure Offloading Device,2129,212900
+DUMMY PARAGRAPH 213000,606472,869180,262708,0.43317416137925574,Appliances,21,Eye Products,2130,213000
+DUMMY PARAGRAPH 213200,3500,3830,330,0.09428571428571429,Appliances,21,Inhalation Solutions,2132,213200
+DUMMY PARAGRAPH 213300,368,520,152,0.41304347826086957,Appliances,21,Indwelling Pleural Cath Drain System,2133,213300
+DUMMY PARAGRAPH 213400,3982,3910,-72,-0.01808136614766449,Appliances,21,Vaginal PH Correction Products,2134,213400
+DUMMY PARAGRAPH 213500,51,0,-51,-1,Appliances,21,Acne Treatment,2135,213500
+DUMMY PARAGRAPH 213600,1481,1822,341,0.23024983119513842,Appliances,21,Adhesive Dressing Remover Ster Silicone,2136,213600
+DUMMY PARAGRAPH 213700,65,35,-30,-0.46153846153846156,Appliances,21,Pelvic Toning Devices,2137,213700
+DUMMY PARAGRAPH 213800,1068,1201,133,0.12453183520599251,Appliances,21,Low Friction Products,2138,213800
+DUMMY PARAGRAPH 213900,47,33,-14,-0.2978723404255319,Appliances,21,Prosthetic Adhesives,2139,213900
+DUMMY PARAGRAPH 214000,133,46,-87,-0.6541353383458647,Appliances,21,Bacterial Decolonisation Products,2140,214000
+DUMMY PARAGRAPH 214100,9479,10597,1118,0.11794493089988395,Appliances,21,Physical Debridement Device,2141,214100
+DUMMY PARAGRAPH 214200,103,122,19,0.18446601941747573,Appliances,21,Jaw Rehabilitation Device,2142,214200
+DUMMY PARAGRAPH 214300,198,372,174,0.8787878787878788,Appliances,21,Micro-Enema - Sodium Citrate,2143,214300
+DUMMY PARAGRAPH 214601,52,65,13,0.25,Appliances,21,Hernia Support Garments,2146,214601
+DUMMY PARAGRAPH 214701,96,61,-35,-0.3645833333333333,Appliances,21,Dev For Fungal Nail Infections,2147,214701
+DUMMY PARAGRAPH 214800,80748,192459,111711,1.383452221726854,Appliances,21,Detection Sensor Interstitial Fluid/Gluc,2148,214800
+DUMMY PARAGRAPH 214900,230,58,-172,-0.7478260869565218,Appliances,21,Pulsed Electromagnetic Stimulator,2149,214900
+DUMMY PARAGRAPH 220210,355,369,14,0.03943661971830986,Incontinence Appliances,22,Anal Plugs,2202,220210
+DUMMY PARAGRAPH 220238,231,216,-15,-0.06493506493506493,Incontinence Appliances,22,Anal Plugs,2202,220238
+DUMMY PARAGRAPH 220505,4915,3490,-1425,-0.28992878942014244,Incontinence Appliances,22,Catheter Valves,2205,220505
+DUMMY PARAGRAPH 220509,690,1085,395,0.572463768115942,Incontinence Appliances,22,Catheter Valves,2205,220509
+DUMMY PARAGRAPH 220510,252,370,118,0.46825396825396826,Incontinence Appliances,22,Catheter Valves,2205,220510
+DUMMY PARAGRAPH 220517,240,239,-1,-0.004166666666666667,Incontinence Appliances,22,Catheter Valves,2205,220517
+DUMMY PARAGRAPH 220520,229,205,-24,-0.10480349344978165,Incontinence Appliances,22,Catheter Valves,2205,220520
+DUMMY PARAGRAPH 220524,0,3,3,Inf,Incontinence Appliances,22,Catheter Valves,2205,220524
+DUMMY PARAGRAPH 220526,325,741,416,1.28,Incontinence Appliances,22,Catheter Valves,2205,220526
+DUMMY PARAGRAPH 220529,17,0,-17,-1,Incontinence Appliances,22,Catheter Valves,2205,220529
+DUMMY PARAGRAPH 220548,7,13,6,0.8571428571428571,Incontinence Appliances,22,Catheter Valves,2205,220548
+DUMMY PARAGRAPH 220550,2056,2582,526,0.25583657587548636,Incontinence Appliances,22,Catheter Valves,2205,220550
+DUMMY PARAGRAPH 220560,85,29,-56,-0.6588235294117647,Incontinence Appliances,22,Catheter Valves,2205,220560
+DUMMY PARAGRAPH 220561,15,162,147,9.8,Incontinence Appliances,22,Catheter Valves,2205,220561
+DUMMY PARAGRAPH 221024,0,1,1,Inf,Incontinence Appliances,22,Drainable Dribbling Appliances,2210,221024
+DUMMY PARAGRAPH 221501,8,1,-7,-0.875,Incontinence Appliances,22,Faecal Collectors,2215,221501
+DUMMY PARAGRAPH 221504,121,133,12,0.09917355371900827,Incontinence Appliances,22,Faecal Collectors,2215,221504
+DUMMY PARAGRAPH 221510,58,77,19,0.3275862068965517,Incontinence Appliances,22,Faecal Collectors,2215,221510
+DUMMY PARAGRAPH 223001,1547,1629,82,0.053005817711700064,Incontinence Appliances,22,Incontinence Sheaths,2230,223001
+DUMMY PARAGRAPH 223005,151,0,-151,-1,Incontinence Appliances,22,Incontinence Sheaths,2230,223005
+DUMMY PARAGRAPH 223007,8,19,11,1.375,Incontinence Appliances,22,Incontinence Sheaths,2230,223007
+DUMMY PARAGRAPH 223009,134,228,94,0.7014925373134329,Incontinence Appliances,22,Incontinence Sheaths,2230,223009
+DUMMY PARAGRAPH 223010,4230,3757,-473,-0.11182033096926713,Incontinence Appliances,22,Incontinence Sheaths,2230,223010
+DUMMY PARAGRAPH 223012,3,4,1,0.3333333333333333,Incontinence Appliances,22,Incontinence Sheaths,2230,223012
+DUMMY PARAGRAPH 223020,10,163,153,15.3,Incontinence Appliances,22,Incontinence Sheaths,2230,223020
+DUMMY PARAGRAPH 223024,13,23,10,0.7692307692307693,Incontinence Appliances,22,Incontinence Sheaths,2230,223024
+DUMMY PARAGRAPH 223029,534,544,10,0.018726591760299626,Incontinence Appliances,22,Incontinence Sheaths,2230,223029
+DUMMY PARAGRAPH 223034,17,0,-17,-1,Incontinence Appliances,22,Incontinence Sheaths,2230,223034
+DUMMY PARAGRAPH 223039,2981,1970,-1011,-0.3391479369339148,Incontinence Appliances,22,Incontinence Sheaths,2230,223039
+DUMMY PARAGRAPH 223049,67,0,-67,-1,Incontinence Appliances,22,Incontinence Sheaths,2230,223049
+DUMMY PARAGRAPH 223060,77,0,-77,-1,Incontinence Appliances,22,Incontinence Sheaths,2230,223060
+DUMMY PARAGRAPH 223061,1,138,137,137,Incontinence Appliances,22,Incontinence Sheaths,2230,223061
+DUMMY PARAGRAPH 224003,2,3,1,0.5,Incontinence Appliances,22,Incontinence Sheath Fixing Strips & Adh,2240,224003
+DUMMY PARAGRAPH 224010,69,84,15,0.21739130434782608,Incontinence Appliances,22,Incontinence Sheath Fixing Strips & Adh,2240,224010
+DUMMY PARAGRAPH 224012,1,0,-1,-1,Incontinence Appliances,22,Incontinence Sheath Fixing Strips & Adh,2240,224012
+DUMMY PARAGRAPH 224023,48,39,-9,-0.1875,Incontinence Appliances,22,Incontinence Sheath Fixing Strips & Adh,2240,224023
+DUMMY PARAGRAPH 224024,21,27,6,0.2857142857142857,Incontinence Appliances,22,Incontinence Sheath Fixing Strips & Adh,2240,224024
+DUMMY PARAGRAPH 224029,22,24,2,0.09090909090909091,Incontinence Appliances,22,Incontinence Sheath Fixing Strips & Adh,2240,224029
+DUMMY PARAGRAPH 224034,7,6,-1,-0.14285714285714285,Incontinence Appliances,22,Incontinence Sheath Fixing Strips & Adh,2240,224034
+DUMMY PARAGRAPH 224048,80,65,-15,-0.1875,Incontinence Appliances,22,Incontinence Sheath Fixing Strips & Adh,2240,224048
+DUMMY PARAGRAPH 225001,111,145,34,0.3063063063063063,Incontinence Appliances,22,Leg Bags,2250,225001
+DUMMY PARAGRAPH 225005,4440,2598,-1842,-0.41486486486486485,Incontinence Appliances,22,Leg Bags,2250,225005
+DUMMY PARAGRAPH 225007,0,1,1,Inf,Incontinence Appliances,22,Leg Bags,2250,225007
+DUMMY PARAGRAPH 225009,24669,25294,625,0.025335441242044673,Incontinence Appliances,22,Leg Bags,2250,225009
+DUMMY PARAGRAPH 225010,8729,3978,-4751,-0.5442776950395234,Incontinence Appliances,22,Leg Bags,2250,225010
+DUMMY PARAGRAPH 225012,1,0,-1,-1,Incontinence Appliances,22,Leg Bags,2250,225012
+DUMMY PARAGRAPH 225017,385,144,-241,-0.625974025974026,Incontinence Appliances,22,Leg Bags,2250,225017
+DUMMY PARAGRAPH 225020,105,156,51,0.4857142857142857,Incontinence Appliances,22,Leg Bags,2250,225020
+DUMMY PARAGRAPH 225024,27,19,-8,-0.2962962962962963,Incontinence Appliances,22,Leg Bags,2250,225024
+DUMMY PARAGRAPH 225026,2895,7987,5092,1.758894645941278,Incontinence Appliances,22,Leg Bags,2250,225026
+DUMMY PARAGRAPH 225029,320,250,-70,-0.21875,Incontinence Appliances,22,Leg Bags,2250,225029
+DUMMY PARAGRAPH 225034,2,2,0,0,Incontinence Appliances,22,Leg Bags,2250,225034
+DUMMY PARAGRAPH 225038,3,0,-3,-1,Incontinence Appliances,22,Leg Bags,2250,225038
+DUMMY PARAGRAPH 225048,61,75,14,0.22950819672131148,Incontinence Appliances,22,Leg Bags,2250,225048
+DUMMY PARAGRAPH 225050,13694,15757,2063,0.15064991967284944,Incontinence Appliances,22,Leg Bags,2250,225050
+DUMMY PARAGRAPH 225060,1544,526,-1018,-0.6593264248704663,Incontinence Appliances,22,Leg Bags,2250,225060
+DUMMY PARAGRAPH 225061,55,331,276,5.0181818181818185,Incontinence Appliances,22,Leg Bags,2250,225061
+DUMMY PARAGRAPH 226001,985,1013,28,0.028426395939086295,Incontinence Appliances,22,Night Drainage Bags,2260,226001
+DUMMY PARAGRAPH 226004,90,205,115,1.2777777777777777,Incontinence Appliances,22,Night Drainage Bags,2260,226004
+DUMMY PARAGRAPH 226005,5601,2806,-2795,-0.49901803249419746,Incontinence Appliances,22,Night Drainage Bags,2260,226005
+DUMMY PARAGRAPH 226007,417,335,-82,-0.19664268585131894,Incontinence Appliances,22,Night Drainage Bags,2260,226007
+DUMMY PARAGRAPH 226009,38986,37419,-1567,-0.04019391576463346,Incontinence Appliances,22,Night Drainage Bags,2260,226009
+DUMMY PARAGRAPH 226010,15000,10454,-4546,-0.30306666666666665,Incontinence Appliances,22,Night Drainage Bags,2260,226010
+DUMMY PARAGRAPH 226017,414,253,-161,-0.3888888888888889,Incontinence Appliances,22,Night Drainage Bags,2260,226017
+DUMMY PARAGRAPH 226020,217,544,327,1.5069124423963134,Incontinence Appliances,22,Night Drainage Bags,2260,226020
+DUMMY PARAGRAPH 226024,25,28,3,0.12,Incontinence Appliances,22,Night Drainage Bags,2260,226024
+DUMMY PARAGRAPH 226026,4196,11823,7627,1.8176835081029552,Incontinence Appliances,22,Night Drainage Bags,2260,226026
+DUMMY PARAGRAPH 226029,287,107,-180,-0.627177700348432,Incontinence Appliances,22,Night Drainage Bags,2260,226029
+DUMMY PARAGRAPH 226034,290,330,40,0.13793103448275862,Incontinence Appliances,22,Night Drainage Bags,2260,226034
+DUMMY PARAGRAPH 226041,82,73,-9,-0.10975609756097561,Incontinence Appliances,22,Night Drainage Bags,2260,226041
+DUMMY PARAGRAPH 226048,310,62,-248,-0.8,Incontinence Appliances,22,Night Drainage Bags,2260,226048
+DUMMY PARAGRAPH 226050,27689,29596,1907,0.06887211528043627,Incontinence Appliances,22,Night Drainage Bags,2260,226050
+DUMMY PARAGRAPH 226053,1,0,-1,-1,Incontinence Appliances,22,Night Drainage Bags,2260,226053
+DUMMY PARAGRAPH 226056,239,349,110,0.4602510460251046,Incontinence Appliances,22,Night Drainage Bags,2260,226056
+DUMMY PARAGRAPH 226059,5,0,-5,-1,Incontinence Appliances,22,Night Drainage Bags,2260,226059
+DUMMY PARAGRAPH 226060,1330,376,-954,-0.7172932330827068,Incontinence Appliances,22,Night Drainage Bags,2260,226060
+DUMMY PARAGRAPH 226061,388,690,302,0.7783505154639175,Incontinence Appliances,22,Night Drainage Bags,2260,226061
+DUMMY PARAGRAPH 227024,3,9,6,2,Incontinence Appliances,22,Suspensory Systems,2270,227024
+DUMMY PARAGRAPH 227026,33,27,-6,-0.18181818181818182,Incontinence Appliances,22,Suspensory Systems,2270,227026
+DUMMY PARAGRAPH 227029,614,877,263,0.42833876221498374,Incontinence Appliances,22,Suspensory Systems,2270,227029
+DUMMY PARAGRAPH 227034,21,0,-21,-1,Incontinence Appliances,22,Suspensory Systems,2270,227034
+DUMMY PARAGRAPH 227048,335,252,-83,-0.24776119402985075,Incontinence Appliances,22,Suspensory Systems,2270,227048
+DUMMY PARAGRAPH 227063,0,1,1,Inf,Incontinence Appliances,22,Suspensory Systems,2270,227063
+DUMMY PARAGRAPH 228001,98,52,-46,-0.46938775510204084,Incontinence Appliances,22,Tubing And Accessories,2280,228001
+DUMMY PARAGRAPH 228005,2998,2154,-844,-0.28152101400933954,Incontinence Appliances,22,Tubing And Accessories,2280,228005
+DUMMY PARAGRAPH 228007,25,64,39,1.56,Incontinence Appliances,22,Tubing And Accessories,2280,228007
+DUMMY PARAGRAPH 228009,1129,1428,299,0.26483613817537643,Incontinence Appliances,22,Tubing And Accessories,2280,228009
+DUMMY PARAGRAPH 228010,6775,6068,-707,-0.10435424354243543,Incontinence Appliances,22,Tubing And Accessories,2280,228010
+DUMMY PARAGRAPH 228017,12,15,3,0.25,Incontinence Appliances,22,Tubing And Accessories,2280,228017
+DUMMY PARAGRAPH 228019,10,11,1,0.1,Incontinence Appliances,22,Tubing And Accessories,2280,228019
+DUMMY PARAGRAPH 228020,90,113,23,0.25555555555555554,Incontinence Appliances,22,Tubing And Accessories,2280,228020
+DUMMY PARAGRAPH 228024,83,68,-15,-0.18072289156626506,Incontinence Appliances,22,Tubing And Accessories,2280,228024
+DUMMY PARAGRAPH 228026,22,153,131,5.954545454545454,Incontinence Appliances,22,Tubing And Accessories,2280,228026
+DUMMY PARAGRAPH 228029,45,66,21,0.4666666666666667,Incontinence Appliances,22,Tubing And Accessories,2280,228029
+DUMMY PARAGRAPH 228034,16,12,-4,-0.25,Incontinence Appliances,22,Tubing And Accessories,2280,228034
+DUMMY PARAGRAPH 228039,4,179,175,43.75,Incontinence Appliances,22,Tubing And Accessories,2280,228039
+DUMMY PARAGRAPH 228050,734,822,88,0.11989100817438691,Incontinence Appliances,22,Tubing And Accessories,2280,228050
+DUMMY PARAGRAPH 228060,26,12,-14,-0.5384615384615384,Incontinence Appliances,22,Tubing And Accessories,2280,228060
+DUMMY PARAGRAPH 228061,133,267,134,1.0075187969924813,Incontinence Appliances,22,Tubing And Accessories,2280,228061
+DUMMY PARAGRAPH 228062,2,11,9,4.5,Incontinence Appliances,22,Tubing And Accessories,2280,228062
+DUMMY PARAGRAPH 228534,328,268,-60,-0.18292682926829268,Incontinence Appliances,22,Insert For Female Stress Incont,2285,228534
+DUMMY PARAGRAPH 228539,0,178,178,Inf,Incontinence Appliances,22,Insert For Female Stress Incont,2285,228539
+DUMMY PARAGRAPH 229001,101,86,-15,-0.1485148514851485,Incontinence Appliances,22,Urinal Systems,2290,229001
+DUMMY PARAGRAPH 229006,94,45,-49,-0.5212765957446809,Incontinence Appliances,22,Urinal Systems,2290,229006
+DUMMY PARAGRAPH 229007,76,75,-1,-0.013157894736842105,Incontinence Appliances,22,Urinal Systems,2290,229007
+DUMMY PARAGRAPH 229008,4,8,4,1,Incontinence Appliances,22,Urinal Systems,2290,229008
+DUMMY PARAGRAPH 229012,0,1,1,Inf,Incontinence Appliances,22,Urinal Systems,2290,229012
+DUMMY PARAGRAPH 229021,39,86,47,1.205128205128205,Incontinence Appliances,22,Urinal Systems,2290,229021
+DUMMY PARAGRAPH 229024,69,54,-15,-0.21739130434782608,Incontinence Appliances,22,Urinal Systems,2290,229024
+DUMMY PARAGRAPH 229029,176,145,-31,-0.17613636363636365,Incontinence Appliances,22,Urinal Systems,2290,229029
+DUMMY PARAGRAPH 229034,51,13,-38,-0.7450980392156863,Incontinence Appliances,22,Urinal Systems,2290,229034
+DUMMY PARAGRAPH 229053,3,5,2,0.6666666666666666,Incontinence Appliances,22,Urinal Systems,2290,229053
+DUMMY PARAGRAPH 230506,860,1133,273,0.3174418604651163,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230506
+DUMMY PARAGRAPH 230507,615,651,36,0.05853658536585366,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230507
+DUMMY PARAGRAPH 230509,2476,2303,-173,-0.06987075928917609,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230509
+DUMMY PARAGRAPH 230510,6588,9038,2450,0.3718882817243473,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230510
+DUMMY PARAGRAPH 230524,20,25,5,0.25,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230524
+DUMMY PARAGRAPH 230533,345,288,-57,-0.16521739130434782,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230533
+DUMMY PARAGRAPH 230534,213,271,58,0.27230046948356806,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230534
+DUMMY PARAGRAPH 230541,4943,4739,-204,-0.04127048351203722,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230541
+DUMMY PARAGRAPH 230559,25,27,2,0.08,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230559
+DUMMY PARAGRAPH 230565,153,240,87,0.5686274509803921,Stoma Appliances,23,Adhesive Discs/Rings/Pads/Plasters,2305,230565
+DUMMY PARAGRAPH 231029,26,28,2,0.07692307692307693,Stoma Appliances,23,Adhesive (Pastes/Sprays/Solutions),2310,231029
+DUMMY PARAGRAPH 231041,25,0,-25,-1,Stoma Appliances,23,Adhesive (Pastes/Sprays/Solutions),2310,231041
+DUMMY PARAGRAPH 231501,992,685,-307,-0.3094758064516129,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231501
+DUMMY PARAGRAPH 231507,3141,2813,-328,-0.10442534224769182,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231507
+DUMMY PARAGRAPH 231509,13906,13391,-515,-0.03703437365166115,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231509
+DUMMY PARAGRAPH 231510,3364,3134,-230,-0.06837098692033294,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231510
+DUMMY PARAGRAPH 231530,148,393,245,1.6554054054054055,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231530
+DUMMY PARAGRAPH 231533,15796,30453,14657,0.9278931375031654,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231533
+DUMMY PARAGRAPH 231534,879,439,-440,-0.5005688282138794,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231534
+DUMMY PARAGRAPH 231539,0,654,654,Inf,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231539
+DUMMY PARAGRAPH 231541,13456,16496,3040,0.2259215219976219,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231541
+DUMMY PARAGRAPH 231548,1155,785,-370,-0.3203463203463203,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231548
+DUMMY PARAGRAPH 231559,27,188,161,5.962962962962963,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231559
+DUMMY PARAGRAPH 231560,2748,2030,-718,-0.2612809315866084,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231560
+DUMMY PARAGRAPH 231565,1286,1912,626,0.4867807153965785,Stoma Appliances,23,Adhesive Removers (Sprays/Liquids/Wipes),2315,231565
+DUMMY PARAGRAPH 232001,44,32,-12,-0.2727272727272727,Stoma Appliances,23,Bag Closures,2320,232001
+DUMMY PARAGRAPH 232006,9,4,-5,-0.5555555555555556,Stoma Appliances,23,Bag Closures,2320,232006
+DUMMY PARAGRAPH 232007,84,73,-11,-0.13095238095238096,Stoma Appliances,23,Bag Closures,2320,232007
+DUMMY PARAGRAPH 232009,0,1,1,Inf,Stoma Appliances,23,Bag Closures,2320,232009
+DUMMY PARAGRAPH 232034,14,16,2,0.14285714285714285,Stoma Appliances,23,Bag Closures,2320,232034
+DUMMY PARAGRAPH 232041,8,10,2,0.25,Stoma Appliances,23,Bag Closures,2320,232041
+DUMMY PARAGRAPH 232048,366,246,-120,-0.32786885245901637,Stoma Appliances,23,Bag Closures,2320,232048
+DUMMY PARAGRAPH 232059,2,4,2,1,Stoma Appliances,23,Bag Closures,2320,232059
+DUMMY PARAGRAPH 232502,54,0,-54,-1,Stoma Appliances,23,Bag Covers,2325,232502
+DUMMY PARAGRAPH 232506,10,16,6,0.6,Stoma Appliances,23,Bag Covers,2325,232506
+DUMMY PARAGRAPH 232510,249,18,-231,-0.927710843373494,Stoma Appliances,23,Bag Covers,2325,232510
+DUMMY PARAGRAPH 232533,7,10,3,0.42857142857142855,Stoma Appliances,23,Bag Covers,2325,232533
+DUMMY PARAGRAPH 232559,264,4,-260,-0.9848484848484849,Stoma Appliances,23,Bag Covers,2325,232559
+DUMMY PARAGRAPH 233000,0,56,56,Inf,Stoma Appliances,23,Belts,2330,233000
+DUMMY PARAGRAPH 233001,532,469,-63,-0.11842105263157894,Stoma Appliances,23,Belts,2330,233001
+DUMMY PARAGRAPH 233002,203,248,45,0.22167487684729065,Stoma Appliances,23,Belts,2330,233002
+DUMMY PARAGRAPH 233004,41,23,-18,-0.43902439024390244,Stoma Appliances,23,Belts,2330,233004
+DUMMY PARAGRAPH 233006,0,1,1,Inf,Stoma Appliances,23,Belts,2330,233006
+DUMMY PARAGRAPH 233007,322,319,-3,-0.009316770186335404,Stoma Appliances,23,Belts,2330,233007
+DUMMY PARAGRAPH 233010,1592,1578,-14,-0.008793969849246231,Stoma Appliances,23,Belts,2330,233010
+DUMMY PARAGRAPH 233024,3,2,-1,-0.3333333333333333,Stoma Appliances,23,Belts,2330,233024
+DUMMY PARAGRAPH 233033,247,166,-81,-0.32793522267206476,Stoma Appliances,23,Belts,2330,233033
+DUMMY PARAGRAPH 233034,346,245,-101,-0.29190751445086704,Stoma Appliances,23,Belts,2330,233034
+DUMMY PARAGRAPH 233041,651,295,-356,-0.5468509984639017,Stoma Appliances,23,Belts,2330,233041
+DUMMY PARAGRAPH 233048,165,12,-153,-0.9272727272727272,Stoma Appliances,23,Belts,2330,233048
+DUMMY PARAGRAPH 233056,90,122,32,0.35555555555555557,Stoma Appliances,23,Belts,2330,233056
+DUMMY PARAGRAPH 233059,265,215,-50,-0.18867924528301888,Stoma Appliances,23,Belts,2330,233059
+DUMMY PARAGRAPH 233500,0,4,4,Inf,Stoma Appliances,23,Colostomy Bags,2335,233500
+DUMMY PARAGRAPH 233501,2332,1771,-561,-0.24056603773584906,Stoma Appliances,23,Colostomy Bags,2335,233501
+DUMMY PARAGRAPH 233504,881,341,-540,-0.6129398410896708,Stoma Appliances,23,Colostomy Bags,2335,233504
+DUMMY PARAGRAPH 233507,10518,10559,41,0.0038980794827914054,Stoma Appliances,23,Colostomy Bags,2335,233507
+DUMMY PARAGRAPH 233510,15895,16702,807,0.05077068260459264,Stoma Appliances,23,Colostomy Bags,2335,233510
+DUMMY PARAGRAPH 233533,253,203,-50,-0.1976284584980237,Stoma Appliances,23,Colostomy Bags,2335,233533
+DUMMY PARAGRAPH 233534,2520,2910,390,0.15476190476190477,Stoma Appliances,23,Colostomy Bags,2335,233534
+DUMMY PARAGRAPH 233541,6267,8537,2270,0.36221477580979733,Stoma Appliances,23,Colostomy Bags,2335,233541
+DUMMY PARAGRAPH 233548,992,899,-93,-0.09375,Stoma Appliances,23,Colostomy Bags,2335,233548
+DUMMY PARAGRAPH 233556,2554,2136,-418,-0.16366483946750196,Stoma Appliances,23,Colostomy Bags,2335,233556
+DUMMY PARAGRAPH 233559,48,1003,955,19.895833333333332,Stoma Appliances,23,Colostomy Bags,2335,233559
+DUMMY PARAGRAPH 234501,1021,659,-362,-0.3545543584720862,Stoma Appliances,23,Deodorants,2345,234501
+DUMMY PARAGRAPH 234504,11,0,-11,-1,Stoma Appliances,23,Deodorants,2345,234504
+DUMMY PARAGRAPH 234506,389,456,67,0.17223650385604114,Stoma Appliances,23,Deodorants,2345,234506
+DUMMY PARAGRAPH 234507,177,106,-71,-0.4011299435028249,Stoma Appliances,23,Deodorants,2345,234507
+DUMMY PARAGRAPH 234509,1638,981,-657,-0.4010989010989011,Stoma Appliances,23,Deodorants,2345,234509
+DUMMY PARAGRAPH 234510,717,470,-247,-0.34449093444909346,Stoma Appliances,23,Deodorants,2345,234510
+DUMMY PARAGRAPH 234530,2,3,1,0.5,Stoma Appliances,23,Deodorants,2345,234530
+DUMMY PARAGRAPH 234533,1663,1126,-537,-0.32291040288635,Stoma Appliances,23,Deodorants,2345,234533
+DUMMY PARAGRAPH 234534,217,128,-89,-0.41013824884792627,Stoma Appliances,23,Deodorants,2345,234534
+DUMMY PARAGRAPH 234541,2127,1278,-849,-0.3991537376586742,Stoma Appliances,23,Deodorants,2345,234541
+DUMMY PARAGRAPH 234604,55,22,-33,-0.6,Stoma Appliances,23,Discharge Solidifying Agents,2346,234604
+DUMMY PARAGRAPH 234606,60,18,-42,-0.7,Stoma Appliances,23,Discharge Solidifying Agents,2346,234606
+DUMMY PARAGRAPH 234609,827,720,-107,-0.1293833131801693,Stoma Appliances,23,Discharge Solidifying Agents,2346,234609
+DUMMY PARAGRAPH 234610,10,3,-7,-0.7,Stoma Appliances,23,Discharge Solidifying Agents,2346,234610
+DUMMY PARAGRAPH 234633,998,886,-112,-0.11222444889779559,Stoma Appliances,23,Discharge Solidifying Agents,2346,234633
+DUMMY PARAGRAPH 234634,86,105,19,0.22093023255813954,Stoma Appliances,23,Discharge Solidifying Agents,2346,234634
+DUMMY PARAGRAPH 234648,200,220,20,0.1,Stoma Appliances,23,Discharge Solidifying Agents,2346,234648
+DUMMY PARAGRAPH 234659,16,19,3,0.1875,Stoma Appliances,23,Discharge Solidifying Agents,2346,234659
+DUMMY PARAGRAPH 234665,229,292,63,0.27510917030567683,Stoma Appliances,23,Discharge Solidifying Agents,2346,234665
+DUMMY PARAGRAPH 235001,1,0,-1,-1,Stoma Appliances,23,Filters/Bridges,2350,235001
+DUMMY PARAGRAPH 235004,6,0,-6,-1,Stoma Appliances,23,Filters/Bridges,2350,235004
+DUMMY PARAGRAPH 235010,29,9,-20,-0.6896551724137931,Stoma Appliances,23,Filters/Bridges,2350,235010
+DUMMY PARAGRAPH 235033,252,90,-162,-0.6428571428571429,Stoma Appliances,23,Filters/Bridges,2350,235033
+DUMMY PARAGRAPH 235041,10,7,-3,-0.3,Stoma Appliances,23,Filters/Bridges,2350,235041
+DUMMY PARAGRAPH 235058,0,129,129,Inf,Stoma Appliances,23,Filters/Bridges,2350,235058
+DUMMY PARAGRAPH 235524,11,12,1,0.09090909090909091,Stoma Appliances,23,Flanges,2355,235524
+DUMMY PARAGRAPH 235541,6,5,-1,-0.16666666666666666,Stoma Appliances,23,Flanges,2355,235541
+DUMMY PARAGRAPH 236000,0,104,104,Inf,Stoma Appliances,23,Ileostomy Bags,2360,236000
+DUMMY PARAGRAPH 236001,4200,3561,-639,-0.15214285714285714,Stoma Appliances,23,Ileostomy Bags,2360,236001
+DUMMY PARAGRAPH 236004,579,437,-142,-0.2452504317789292,Stoma Appliances,23,Ileostomy Bags,2360,236004
+DUMMY PARAGRAPH 236006,1,0,-1,-1,Stoma Appliances,23,Ileostomy Bags,2360,236006
+DUMMY PARAGRAPH 236007,15967,17702,1735,0.1086616145800714,Stoma Appliances,23,Ileostomy Bags,2360,236007
+DUMMY PARAGRAPH 236010,23271,25655,2384,0.10244510334751407,Stoma Appliances,23,Ileostomy Bags,2360,236010
+DUMMY PARAGRAPH 236024,9,8,-1,-0.1111111111111111,Stoma Appliances,23,Ileostomy Bags,2360,236024
+DUMMY PARAGRAPH 236030,0,1,1,Inf,Stoma Appliances,23,Ileostomy Bags,2360,236030
+DUMMY PARAGRAPH 236033,198,111,-87,-0.4393939393939394,Stoma Appliances,23,Ileostomy Bags,2360,236033
+DUMMY PARAGRAPH 236034,6047,6225,178,0.029436084008599307,Stoma Appliances,23,Ileostomy Bags,2360,236034
+DUMMY PARAGRAPH 236041,8119,12213,4094,0.5042492917847026,Stoma Appliances,23,Ileostomy Bags,2360,236041
+DUMMY PARAGRAPH 236048,867,744,-123,-0.14186851211072665,Stoma Appliances,23,Ileostomy Bags,2360,236048
+DUMMY PARAGRAPH 236056,1434,1731,297,0.20711297071129708,Stoma Appliances,23,Ileostomy Bags,2360,236056
+DUMMY PARAGRAPH 236059,91,1499,1408,15.472527472527473,Stoma Appliances,23,Ileostomy Bags,2360,236059
+DUMMY PARAGRAPH 237001,129,81,-48,-0.37209302325581395,Stoma Appliances,23,Irrigation Washout Appliances,2370,237001
+DUMMY PARAGRAPH 237002,184,210,26,0.14130434782608695,Stoma Appliances,23,Irrigation Washout Appliances,2370,237002
+DUMMY PARAGRAPH 237004,244,70,-174,-0.7131147540983607,Stoma Appliances,23,Irrigation Washout Appliances,2370,237004
+DUMMY PARAGRAPH 237007,694,856,162,0.2334293948126801,Stoma Appliances,23,Irrigation Washout Appliances,2370,237007
+DUMMY PARAGRAPH 237010,396,356,-40,-0.10101010101010101,Stoma Appliances,23,Irrigation Washout Appliances,2370,237010
+DUMMY PARAGRAPH 237017,0,92,92,Inf,Stoma Appliances,23,Irrigation Washout Appliances,2370,237017
+DUMMY PARAGRAPH 237033,1,0,-1,-1,Stoma Appliances,23,Irrigation Washout Appliances,2370,237033
+DUMMY PARAGRAPH 237037,99,122,23,0.23232323232323232,Stoma Appliances,23,Irrigation Washout Appliances,2370,237037
+DUMMY PARAGRAPH 237056,26,28,2,0.07692307692307693,Stoma Appliances,23,Irrigation Washout Appliances,2370,237056
+DUMMY PARAGRAPH 237066,205,141,-64,-0.3121951219512195,Stoma Appliances,23,Irrigation Washout Appliances,2370,237066
+DUMMY PARAGRAPH 237504,32,17,-15,-0.46875,Stoma Appliances,23,Pressure Plates/Shields,2375,237504
+DUMMY PARAGRAPH 237510,13,27,14,1.0769230769230769,Stoma Appliances,23,Pressure Plates/Shields,2375,237510
+DUMMY PARAGRAPH 237533,70,62,-8,-0.11428571428571428,Stoma Appliances,23,Pressure Plates/Shields,2375,237533
+DUMMY PARAGRAPH 237541,15,5,-10,-0.6666666666666666,Stoma Appliances,23,Pressure Plates/Shields,2375,237541
+DUMMY PARAGRAPH 237548,43,0,-43,-1,Stoma Appliances,23,Pressure Plates/Shields,2375,237548
+DUMMY PARAGRAPH 237559,0,2,2,Inf,Stoma Appliances,23,Pressure Plates/Shields,2375,237559
+DUMMY PARAGRAPH 238001,589,428,-161,-0.2733446519524618,Stoma Appliances,23,Skin Fillers And Protectives,2380,238001
+DUMMY PARAGRAPH 238002,49105,36727,-12378,-0.252072090418491,Stoma Appliances,23,Skin Fillers And Protectives,2380,238002
+DUMMY PARAGRAPH 238006,0,1,1,Inf,Stoma Appliances,23,Skin Fillers And Protectives,2380,238006
+DUMMY PARAGRAPH 238007,414,812,398,0.961352657004831,Stoma Appliances,23,Skin Fillers And Protectives,2380,238007
+DUMMY PARAGRAPH 238009,5734,4992,-742,-0.12940355772584583,Stoma Appliances,23,Skin Fillers And Protectives,2380,238009
+DUMMY PARAGRAPH 238010,3414,3694,280,0.08201523140011717,Stoma Appliances,23,Skin Fillers And Protectives,2380,238010
+DUMMY PARAGRAPH 238022,243,216,-27,-0.1111111111111111,Stoma Appliances,23,Skin Fillers And Protectives,2380,238022
+DUMMY PARAGRAPH 238030,220,14322,14102,64.1,Stoma Appliances,23,Skin Fillers And Protectives,2380,238030
+DUMMY PARAGRAPH 238031,25534,25458,-76,-0.002976423592073314,Stoma Appliances,23,Skin Fillers And Protectives,2380,238031
+DUMMY PARAGRAPH 238033,2532,2257,-275,-0.10860979462875198,Stoma Appliances,23,Skin Fillers And Protectives,2380,238033
+DUMMY PARAGRAPH 238034,476,467,-9,-0.018907563025210083,Stoma Appliances,23,Skin Fillers And Protectives,2380,238034
+DUMMY PARAGRAPH 238039,0,316,316,Inf,Stoma Appliances,23,Skin Fillers And Protectives,2380,238039
+DUMMY PARAGRAPH 238041,2683,3355,672,0.25046589638464406,Stoma Appliances,23,Skin Fillers And Protectives,2380,238041
+DUMMY PARAGRAPH 238047,5195,8464,3269,0.6292589027911454,Stoma Appliances,23,Skin Fillers And Protectives,2380,238047
+DUMMY PARAGRAPH 238048,9693,10180,487,0.050242443000103165,Stoma Appliances,23,Skin Fillers And Protectives,2380,238048
+DUMMY PARAGRAPH 238060,440,156,-284,-0.6454545454545455,Stoma Appliances,23,Skin Fillers And Protectives,2380,238060
+DUMMY PARAGRAPH 238061,2060,2357,297,0.1441747572815534,Stoma Appliances,23,Skin Fillers And Protectives,2380,238061
+DUMMY PARAGRAPH 238065,958,945,-13,-0.013569937369519834,Stoma Appliances,23,Skin Fillers And Protectives,2380,238065
+DUMMY PARAGRAPH 238501,1014,933,-81,-0.07988165680473373,Stoma Appliances,23,Skin Protectors,2385,238501
+DUMMY PARAGRAPH 238506,43,27,-16,-0.37209302325581395,Stoma Appliances,23,Skin Protectors,2385,238506
+DUMMY PARAGRAPH 238507,3650,3431,-219,-0.06,Stoma Appliances,23,Skin Protectors,2385,238507
+DUMMY PARAGRAPH 238509,985,1655,670,0.6802030456852792,Stoma Appliances,23,Skin Protectors,2385,238509
+DUMMY PARAGRAPH 238510,2271,3182,911,0.401144870101277,Stoma Appliances,23,Skin Protectors,2385,238510
+DUMMY PARAGRAPH 238533,53,2,-51,-0.9622641509433962,Stoma Appliances,23,Skin Protectors,2385,238533
+DUMMY PARAGRAPH 238534,4047,4893,846,0.20904373610081542,Stoma Appliances,23,Skin Protectors,2385,238534
+DUMMY PARAGRAPH 238541,3612,4063,451,0.12486157253599114,Stoma Appliances,23,Skin Protectors,2385,238541
+DUMMY PARAGRAPH 238548,397,256,-141,-0.35516372795969775,Stoma Appliances,23,Skin Protectors,2385,238548
+DUMMY PARAGRAPH 238559,13,12,-1,-0.07692307692307693,Stoma Appliances,23,Skin Protectors,2385,238559
+DUMMY PARAGRAPH 238585,0,330,330,Inf,Stoma Appliances,23,Skin Protectors,2385,238585
+DUMMY PARAGRAPH 239001,13,14,1,0.07692307692307693,Stoma Appliances,23,Stoma Caps/Dressings,2390,239001
+DUMMY PARAGRAPH 239004,83,0,-83,-1,Stoma Appliances,23,Stoma Caps/Dressings,2390,239004
+DUMMY PARAGRAPH 239007,616,604,-12,-0.01948051948051948,Stoma Appliances,23,Stoma Caps/Dressings,2390,239007
+DUMMY PARAGRAPH 239010,220,215,-5,-0.022727272727272728,Stoma Appliances,23,Stoma Caps/Dressings,2390,239010
+DUMMY PARAGRAPH 239033,126,105,-21,-0.16666666666666666,Stoma Appliances,23,Stoma Caps/Dressings,2390,239033
+DUMMY PARAGRAPH 239034,170,249,79,0.4647058823529412,Stoma Appliances,23,Stoma Caps/Dressings,2390,239034
+DUMMY PARAGRAPH 239041,42,81,39,0.9285714285714286,Stoma Appliances,23,Stoma Caps/Dressings,2390,239041
+DUMMY PARAGRAPH 239048,41,29,-12,-0.2926829268292683,Stoma Appliances,23,Stoma Caps/Dressings,2390,239048
+DUMMY PARAGRAPH 239056,63,53,-10,-0.15873015873015872,Stoma Appliances,23,Stoma Caps/Dressings,2390,239056
+DUMMY PARAGRAPH 239059,60,43,-17,-0.2833333333333333,Stoma Appliances,23,Stoma Caps/Dressings,2390,239059
+DUMMY PARAGRAPH 239201,669,710,41,0.061285500747384154,Stoma Appliances,23,Tubing & Accessories,2392,239201
+DUMMY PARAGRAPH 239241,37,37,0,0,Stoma Appliances,23,Tubing & Accessories,2392,239241
+DUMMY PARAGRAPH 239259,4,9,5,1.25,Stoma Appliances,23,Tubing & Accessories,2392,239259
+DUMMY PARAGRAPH 239401,3293,2650,-643,-0.19526267840874584,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239401
+DUMMY PARAGRAPH 239404,819,480,-339,-0.4139194139194139,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239404
+DUMMY PARAGRAPH 239407,2970,3492,522,0.17575757575757575,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239407
+DUMMY PARAGRAPH 239410,5518,5346,-172,-0.03117071402682131,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239410
+DUMMY PARAGRAPH 239433,31,24,-7,-0.22580645161290322,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239433
+DUMMY PARAGRAPH 239434,38,147,109,2.8684210526315788,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239434
+DUMMY PARAGRAPH 239441,956,552,-404,-0.4225941422594142,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239441
+DUMMY PARAGRAPH 239448,10140,7959,-2181,-0.2150887573964497,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239448
+DUMMY PARAGRAPH 239456,229,206,-23,-0.10043668122270742,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239456
+DUMMY PARAGRAPH 239459,27,100,73,2.7037037037037037,Stoma Appliances,23,Two Piece Ostomy Systems,2394,239459
+DUMMY PARAGRAPH 239600,0,2,2,Inf,Stoma Appliances,23,Urostomy Bags,2396,239600
+DUMMY PARAGRAPH 239601,3477,3455,-22,-0.006327293643945931,Stoma Appliances,23,Urostomy Bags,2396,239601
+DUMMY PARAGRAPH 239604,892,1231,339,0.38004484304932734,Stoma Appliances,23,Urostomy Bags,2396,239604
+DUMMY PARAGRAPH 239607,1392,1490,98,0.07040229885057471,Stoma Appliances,23,Urostomy Bags,2396,239607
+DUMMY PARAGRAPH 239610,2786,3017,231,0.0829145728643216,Stoma Appliances,23,Urostomy Bags,2396,239610
+DUMMY PARAGRAPH 239624,5,9,4,0.8,Stoma Appliances,23,Urostomy Bags,2396,239624
+DUMMY PARAGRAPH 239630,0,1,1,Inf,Stoma Appliances,23,Urostomy Bags,2396,239630
+DUMMY PARAGRAPH 239632,0,12,12,Inf,Stoma Appliances,23,Urostomy Bags,2396,239632
+DUMMY PARAGRAPH 239633,93,53,-40,-0.43010752688172044,Stoma Appliances,23,Urostomy Bags,2396,239633
+DUMMY PARAGRAPH 239634,1164,1099,-65,-0.05584192439862543,Stoma Appliances,23,Urostomy Bags,2396,239634
+DUMMY PARAGRAPH 239641,508,536,28,0.05511811023622047,Stoma Appliances,23,Urostomy Bags,2396,239641
+DUMMY PARAGRAPH 239648,130,115,-15,-0.11538461538461539,Stoma Appliances,23,Urostomy Bags,2396,239648
+DUMMY PARAGRAPH 239656,3454,4786,1332,0.38563983786913725,Stoma Appliances,23,Urostomy Bags,2396,239656
+DUMMY PARAGRAPH 239659,102,265,163,1.5980392156862746,Stoma Appliances,23,Urostomy Bags,2396,239659
+Emergency contraception,82686,78439,-4247,-0.051362987688363206,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Contraceptives,0703,070305
+Emollients,824152,639403,-184749,-0.22416859996699637,Skin,13,Emollient and barrier preparations,1302,130201
+Enkephalinase inhibitors,2,0,-2,-1,Gastro-Intestinal System,01,Acute diarrhoea,0104,010403
+Enteral nutrition,186832,186286,-546,-0.0029224115783163486,Nutrition and Blood,09,Oral nutrition,0904,090402
+Enzymes,3923,1677,-2246,-0.5725210298241142,Nutrition and Blood,09,Health supplements,0911,091102
+"Essential tremor,chorea,tics and related disorders",2331,2244,-87,-0.03732303732303732,Central Nervous System,04,Drugs used in parkinsonism and related disorders,0409,040903
+Expectorant and demulcent cough preparations,83325,66612,-16713,-0.20057605760576058,Respiratory System,03,Cough preparations,0309,030902
+Faecal softeners,280,296,16,0.05714285714285714,Gastro-Intestinal System,01,Laxatives,0106,010603
+Female sex hormones and their modulators,329107,603381,274274,0.8333885332126025,Endocrine System,06,Sex Hormones,0604,060401
+Fibrinolytic drugs,4,1,-3,-0.75,Cardiovascular System,02,"Stable angina, acute coronary syndromes and fibrinolysis",0210,021002
+Fluoride,111543,99880,-11663,-0.10456057305254476,Nutrition and Blood,09,Minerals,0905,090503
+Food allergy,549,601,52,0.0947176684881603,Gastro-Intestinal System,01,Chronic bowel disorders,0105,010504
+Foods,7294,9286,1992,0.273101179051275,Nutrition and Blood,09,Foods,0909,090900
+Foods for special diets,252535,305545,53010,0.20991149741619974,Nutrition and Blood,09,Oral nutrition,0904,090401
+Gastro-intestinal anti-obesity drugs,17741,14896,-2845,-0.16036300095823233,Central Nervous System,04,Drugs used in the treatment of obesity,0405,040501
+Glucocorticoid therapy,676647,652065,-24582,-0.03632913468913628,Endocrine System,06,Corticosteroids (endocrine),0603,060302
+Gout and cytotoxic induced hyperuicaemia,472941,515726,42785,0.09046582977580712,Musculoskeletal and Joint Diseases,10,Drugs used in rheumatic diseases and gout,1001,100104
+H2-receptor antagonists,562914,102429,-460485,-0.8180379240878713,Gastro-Intestinal System,01,Antisecretory drugs and mucosal protectants,0103,010301
+Herpesvirus infections,112615,116805,4190,0.037206411224082046,Infections,05,Antiviral drugs,0503,050302
+HIV infection,3648,4785,1137,0.31167763157894735,Infections,05,Antiviral drugs,0503,050301
+Homeopathic preparations,3658,1035,-2623,-0.717058501913614,Other Drugs and Preparations,19,Selective preparations,1902,190203
+Hormone antagonists,209917,239356,29439,0.14024114292791914,Malignant Disease and Immunosuppression,08,Sex hormones and hormone antagonists in malignant disease,0803,080304
+Household and other over the counter lines,26474,25336,-1138,-0.04298557074865906,Other Drugs and Preparations,19,Selective preparations,1902,190205
+Hypnotics,771462,799215,27753,0.03597455221384851,Central Nervous System,04,Hypnotics and anxiolytics,0401,040101
+"Hypoplastic,haemolytic and renal anaemias",5685,5450,-235,-0.04133685136323659,Nutrition and Blood,09,Anaemias and some other blood disorders,0901,090103
+Hypothalamic & anterior pituitary hormone & antioestrogens,6972,6321,-651,-0.09337349397590361,Endocrine System,06,"Hypothalamic and pituitary hormones and anti, oestrogens",0605,060501
+Influenza,1520,204,-1316,-0.8657894736842106,Infections,05,Antiviral drugs,0503,050304
+Insulin,592692,613189,20497,0.034582886220836453,Endocrine System,06,Drugs used in diabetes,0601,060101
+Intravenous anaesthetics,144,168,24,0.16666666666666666,Anaesthesia,15,General anaesthesia,1501,150101
+Iron-deficiency anaemias,451399,470765,19366,0.04290217745276352,Nutrition and Blood,09,Anaemias and some other blood disorders,0901,090101
+Leukotriene receptor antagonists,219664,250868,31204,0.1420533177944497,Respiratory System,03,"Cromoglycate, leukotriene and phosphodesterase type-4 inhib",0303,030302
+Lipid-regulating drugs,4210227,4347873,137646,0.03269324908134407,Cardiovascular System,02,Lipid-regulating drugs,0212,021200
+Local anaesthetics,134123,197618,63495,0.47340873675655926,Eye,11,Local anaesthetics,1107,110700
+Loop diuretics,897106,884035,-13071,-0.014570184571276974,Cardiovascular System,02,Diuretics,0202,020202
+Lozenges and sprays,9350,420,-8930,-0.9550802139037433,"Ear, Nose and Oropharynx",12,Drugs acting on the oropharynx,1203,120303
+Macrolides,289094,235422,-53672,-0.18565587663528127,Infections,05,Antibacterial drugs,0501,050105
+Male sex hormones and antagonists,333890,350428,16538,0.04953128275779448,Endocrine System,06,Sex Hormones,0604,060402
+Management of anal fissures,4462,4079,-383,-0.08583594800537875,Gastro-Intestinal System,01,Local preparations for anal and rectal disorders,0107,010704
+Management of skin conditions,2118,1709,-409,-0.1931067044381492,Skin,13,Management of skin conditions,1301,130101
+"Metronidazole, tinidazole and ornidazole",133364,144682,11318,0.08486548093938394,Infections,05,Antibacterial drugs,0501,050111
+Metyrapone,119,133,14,0.11764705882352941,Endocrine System,06,Other endocrine drugs,0607,060703
+Monoamine-oxidase inhibitors (maois),5579,2590,-2989,-0.5357590966122961,Central Nervous System,04,Antidepressant drugs,0403,040302
+"Mouth-washes, gargles and dentifrices",58384,97678,39294,0.6730268566730611,"Ear, Nose and Oropharynx",12,Drugs acting on the oropharynx,1203,120304
+Mucolytics,140433,162586,22153,0.15774782280518113,Respiratory System,03,Mucolytics,0307,030700
+Multivitamin preparations,57373,57204,-169,-0.002945636449200844,Nutrition and Blood,09,Vitamins,0906,090607
+Mydriatics and cycloplegics,8785,7650,-1135,-0.12919749573136027,Eye,11,Mydriatics and cycloplegics,1105,110500
+Nasal preparations for infection,55602,48324,-7278,-0.1308945721376929,"Ear, Nose and Oropharynx",12,Drugs acting on the nose,1202,120203
+Nicotine dependence,227622,165475,-62147,-0.2730272117809351,Central Nervous System,04,Drugs used in substance dependence,0410,041002
+Nitrates,359707,350188,-9519,-0.026463204774997428,Cardiovascular System,02,"Nitrates, calcium-channel blockers & other antianginal drugs",0206,020601
+Non-opioid analgesics and compound preparations,4396871,4364757,-32114,-0.007303830383015558,Central Nervous System,04,Analgesics,0407,040701
+Non-steroidal anti-inflammatory drugs,1515885,1493102,-22783,-0.015029504217008546,Musculoskeletal and Joint Diseases,10,Drugs used in rheumatic diseases and gout,1001,100101
+Normal immunoglobulin,0,1,1,Inf,Immunological Products and Vaccines,14,Immunoglobulins,1405,140501
+Ocular diagnostic & peri-operative prepn & photodynamic tt,8521,8202,-319,-0.03743692054923131,Eye,11,Miscellaneous ophthalmic preparations,1108,110802
+Oestrogens,76,26,-50,-0.6578947368421053,Malignant Disease and Immunosuppression,08,Sex hormones and hormone antagonists in malignant disease,0803,080301
+Oils,20606,7230,-13376,-0.6491313209744735,Other Drugs and Preparations,19,Acids,1906,190605
+Opioid analgesics,2223060,2229241,6181,0.0027804017885257257,Central Nervous System,04,Analgesics,0407,040702
+Opioid dependence,416187,356634,-59553,-0.14309192742685378,Central Nervous System,04,Drugs used in substance dependence,0410,041003
+Oral anticoagulants,998958,1051020,52062,0.05211630519000799,Cardiovascular System,02,Anticoagulants and protamine,0208,020802
+Oral preparation for fluid and electrolyte imbalance,76562,80321,3759,0.049097463493639144,Nutrition and Blood,09,Fluids and electrolytes,0902,090201
+Oral preparations for acne,14528,9869,-4659,-0.32069107929515417,Skin,13,Acne and rosacea,1306,130602
+Oropharyngeal anti-infective drugs,32273,37494,5221,0.16177609766678028,"Ear, Nose and Oropharynx",12,Drugs acting on the oropharynx,1203,120302
+Osmotic laxatives,910924,947614,36690,0.04027778387659124,Gastro-Intestinal System,01,Laxatives,0106,010604
+Other anti-inflammatory preparations,134083,143209,9126,0.068062319608004,Eye,11,Corticosteroids and other anti-inflammatory preparations,1104,110402
+Other antianginal drugs,198039,167542,-30497,-0.15399492019248734,Cardiovascular System,02,"Nitrates, calcium-channel blockers & other antianginal drugs",0206,020603
+Other antidepressant drugs,1432949,1643938,210989,0.1472411090694784,Central Nervous System,04,Antidepressant drugs,0403,040304
+Other antifungals,46712,40824,-5888,-0.12604898098989553,Infections,05,Antifungal drugs,0502,050205
+Other antineoplastic drugs,7351,8623,1272,0.1730376819480343,Malignant Disease and Immunosuppression,08,Cytotoxic drugs,0801,080105
+Other drugs for rheumatic diseases,175,3,-172,-0.9828571428571429,Musculoskeletal and Joint Diseases,10,Drugs used in rheumatic diseases and gout,1001,100105
+Other drugs used in constipation,9320,10717,1397,0.14989270386266093,Gastro-Intestinal System,01,Laxatives,0106,010607
+Other eye preparations,1027,379,-648,-0.6309639727361246,Eye,11,Miscellaneous ophthalmic preparations,1108,110803
+Other health supplements,319,41,-278,-0.8714733542319749,Nutrition and Blood,09,Other health supplements,0912,091200
+Other immunomodulating drugs,138,74,-64,-0.463768115942029,Malignant Disease and Immunosuppression,08,Drugs affecting the immune response,0802,080204
+Otitis externa,160454,149785,-10669,-0.06649257731187755,"Ear, Nose and Oropharynx",12,Drugs acting on the ear,1201,120101
+Oxidisers and dyes,2561,2322,-239,-0.09332292073408825,Skin,13,"Skin cleansers,antiseptics and desloughing agents",1311,131106
+Pancreatin,49256,51632,2376,0.04823777813870391,Gastro-Intestinal System,01,Drugs affecting intestinal secretions,0109,010904
+Parasiticidal preparations,84186,50850,-33336,-0.39598032927090016,Skin,13,Anti-infective skin preparations,1310,131004
+Parent prepn for fluid and electrolyte imb,22658,23949,1291,0.056977667931856296,Nutrition and Blood,09,Fluids and electrolytes,0902,090202
+Parenteral anticoagulants,43583,36827,-6756,-0.15501456990110823,Cardiovascular System,02,Anticoagulants and protamine,0208,020801
+Penicillins,1498767,1500967,2200,0.0014678732584851415,Infections,05,Antibacterial drugs,0501,050101
+Peripheral opioid-receptor antagonists,2128,3299,1171,0.5502819548872181,Gastro-Intestinal System,01,Laxatives,0106,010606
+Peripheral vasodilators and related drugs,22553,21583,-970,-0.04300979913980402,Cardiovascular System,02,"Nitrates, calcium-channel blockers & other antianginal drugs",0206,020604
+Phenolics,198,54,-144,-0.7272727272727273,Skin,13,"Skin cleansers,antiseptics and desloughing agents",1311,131105
+Phosphodiesterase Type-4 inhibitors,34,105,71,2.088235294117647,Respiratory System,03,"Cromoglycate, leukotriene and phosphodesterase type-4 inhib",0303,030303
+Phosphorus,9854,9819,-35,-0.0035518571138623907,Nutrition and Blood,09,Minerals,0905,090502
+Poisoning antidotes,1330,3176,1846,1.38796992481203,Other Drugs and Preparations,19,Selective preparations,1902,190207
+Polyene antifungals,70009,57317,-12692,-0.18129097687440185,Infections,05,Antifungal drugs,0502,050203
+Posterior pituitary hormones and antagonists,24006,21957,-2049,-0.08535366158460385,Endocrine System,06,"Hypothalamic and pituitary hormones and anti, oestrogens",0605,060502
+Potassium-sparing diuretics and aldosterone antagonists,209180,246998,37818,0.18079166268285687,Cardiovascular System,02,Diuretics,0202,020203
+Potassium sparing diuretics and compounds,19145,13527,-5618,-0.29344476364586053,Cardiovascular System,02,Diuretics,0202,020204
+Preparations for eczema,314,260,-54,-0.17197452229299362,Skin,13,Preparations for eczema and psoriasis,1305,130501
+Preparations for minor cuts and abrasions,10614,16340,5726,0.5394761635575654,Skin,13,Anti-infective skin preparations,1310,131005
+Preparations for psoriasis,156223,146275,-9948,-0.06367820359358096,Skin,13,Preparations for eczema and psoriasis,1305,130502
+Preparations for vaginal and vulval changes,141587,196472,54885,0.3876415207610868,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Treatment of vaginal and vulval conditions,0702,070201
+Preparations for warts and calluses,52770,40033,-12737,-0.24136820162971384,Skin,13,Preparations for warts and calluses,1307,130700
+Progestogen-only contraceptives,330556,332113,1557,0.004710245767736783,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Contraceptives,0703,070302
+Progestogens,1360,1236,-124,-0.09117647058823529,Malignant Disease and Immunosuppression,08,Sex hormones and hormone antagonists in malignant disease,0803,080302
+Prostaglandin analogues,390,375,-15,-0.038461538461538464,Gastro-Intestinal System,01,Antisecretory drugs and mucosal protectants,0103,010304
+Prostaglandins and oxytocics,168,48,-120,-0.7142857142857143,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Drugs used in obstetrics,0701,070101
+Protamine sulfate,1,0,-1,-1,Cardiovascular System,02,Anticoagulants and protamine,0208,020803
+Proton pump inhibitors,4733743,5416593,682850,0.14425159963267967,Gastro-Intestinal System,01,Antisecretory drugs and mucosal protectants,0103,010305
+Purified water,133,106,-27,-0.20300751879699247,Other Drugs and Preparations,19,Waters,1914,191402
+Quinolones,70348,56602,-13746,-0.19540001137203616,Infections,05,Antibacterial drugs,0501,050112
+Removal of ear wax and other substances,11245,4400,-6845,-0.6087149844375278,"Ear, Nose and Oropharynx",12,Drugs acting on the ear,1201,120103
+Renin-angiotensin system drugs,3990113,4042800,52687,0.013204387945905291,Cardiovascular System,02,Hypertension and heart failure,0205,020505
+Replacement therapy,27591,28281,690,0.025008154833097748,Endocrine System,06,Corticosteroids (endocrine),0603,060301
+Respiratory syncytial virus,105,10,-95,-0.9047619047619048,Infections,05,Antiviral drugs,0503,050305
+Rheumatic disease suppressant drugs,334694,360824,26130,0.07807131290073918,Musculoskeletal and Joint Diseases,10,Drugs used in rheumatic diseases and gout,1001,100103
+"Rubefacients, topical NSAIDs, capsaicin and poultices",579845,724067,144222,0.24872509032586296,Musculoskeletal and Joint Diseases,10,Drugs for soft-tissue disorders and topical pain relief,1003,100302
+Sedative and analgesic peri-operative drgs,23871,29090,5219,0.21863348833312388,Anaesthesia,15,General anaesthesia,1501,150104
+Selective serotonin re-uptake inhibitors,3057373,3342928,285555,0.09339881002416127,Central Nervous System,04,Antidepressant drugs,0403,040303
+Shampoo and other preparations for scalp and hair conditions,235066,218444,-16622,-0.07071205533764985,Skin,13,Shampoos and other preparations for scalp and hair conditions,1309,130900
+Single substances,3991,320,-3671,-0.9198195940866951,Other Drugs and Preparations,19,Single substances,1904,190400
+Skeletal muscle relaxants,122302,127119,4817,0.03938610979378915,Musculoskeletal and Joint Diseases,10,Drugs used in neuromuscular disorders,1002,100202
+Some other antibacterials,10407,15456,5049,0.4851542231190545,Infections,05,Antibacterial drugs,0501,050107
+Soothing haemorrhoidal preparations,47888,53908,6020,0.1257099899766121,Gastro-Intestinal System,01,Local preparations for anal and rectal disorders,0107,010701
+Spermicidal contraceptives,76,41,-35,-0.4605263157894737,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Contraceptives,0703,070303
+Stimulant laxatives,560344,606004,45660,0.0814856588095884,Gastro-Intestinal System,01,Laxatives,0106,010602
+Sulfonamides and trimethoprim,399718,387569,-12149,-0.030393927719041924,Infections,05,Antibacterial drugs,0501,050108
+Sunscreening preparations,50927,42731,-8196,-0.1609362420719854,Skin,13,Sunscreens and camouflagers,1308,130801
+Systemic nasal decongestants,13471,5759,-7712,-0.5724890505530399,Respiratory System,03,Systemic nasal decongestants,0310,031000
+"Tear deficiency, eye lubricant and astringent",436607,294943,-141664,-0.32446570943663294,Eye,11,Miscellaneous ophthalmic preparations,1108,110801
+Test for helicobacter pylori,1149,1333,184,0.16013925152306355,Gastro-Intestinal System,01,Antisecretory drugs and mucosal protectants,0103,010300
+Tetracyclines,476703,483037,6334,0.013287099095243789,Infections,05,Antibacterial drugs,0501,050103
+Theophylline,50645,39001,-11644,-0.22991410800671339,Respiratory System,03,Bronchodilators,0301,030103
+Thiazides and related diuretics,1043372,887559,-155813,-0.1493359990492365,Cardiovascular System,02,Diuretics,0202,020201
+Thyroid hormones,2160036,2162469,2433,0.0011263701160536214,Endocrine System,06,Thyroid and antithyroid drugs,0602,060201
+Topical circulatory preparations,3937,3655,-282,-0.07162814325628651,Skin,13,Topical circulatory preparations,1314,131400
+Topical corticosteroids,1374177,1287287,-86890,-0.06323057364517089,Skin,13,Topical corticosteroids,1304,130400
+Topical local anaesthetics and antipruritics,83123,91180,8057,0.09692864790731807,Skin,13,Topical local anaesthetics and antipruritics,1303,130300
+Topical nasal decongestants,55918,54486,-1432,-0.02560892735791695,"Ear, Nose and Oropharynx",12,Drugs acting on the nose,1202,120202
+Topical preparation for rosacea,8510,9532,1022,0.12009400705052879,Skin,13,Acne and rosacea,1306,130603
+Topical preparations for acne,171439,142495,-28944,-0.16882972952478725,Skin,13,Acne and rosacea,1306,130601
+Treatment of dry mouth,1624,1636,12,0.007389162561576354,"Ear, Nose and Oropharynx",12,Drugs acting on the oropharynx,1203,120305
+Treatment of glaucoma,589240,562171,-27069,-0.04593883646731383,Eye,11,Treatment of glaucoma,1106,110600
+Treatment of hypoglycaemia,18564,22776,4212,0.226890756302521,Endocrine System,06,Drugs used in diabetes,0601,060104
+Triazole antifungals,108568,123826,15258,0.1405386485889028,Infections,05,Antifungal drugs,0502,050201
+Tricyclic and related antidepressant drugs,1503461,1630835,127374,0.08472052151668716,Central Nervous System,04,Antidepressant drugs,0403,040301
+Tryptophan hydroxylase inhibitors,3,0,-3,-1,Gastro-Intestinal System,01,Acute diarrhoea,0104,010404
+Urinary-tract infections,242996,266547,23551,0.09691929085252432,Infections,05,Antibacterial drugs,0501,050113
+Vaccines and antisera,71844,18493,-53351,-0.7425950670898057,Immunological Products and Vaccines,14,Vaccines and antisera,1404,140400
+Vaginal and vulval infections,119125,98260,-20865,-0.17515215110178384,"Obstetrics, Gynaecology and Urinary-Tract Disorders",07,Treatment of vaginal and vulval conditions,0702,070202
+Vasoconstrictor sympathomimetics,3036,4185,1149,0.3784584980237154,Cardiovascular System,02,Sympathomimetics,0207,020702
+Vasodilator antihypertensive drugs,8856,8950,94,0.01061427280939476,Cardiovascular System,02,Hypertension and heart failure,0205,020501
+Viral hepatitis,4611,2813,-1798,-0.389937106918239,Infections,05,Antiviral drugs,0503,050303
+Vitamin A,3254,1857,-1397,-0.4293177627535341,Nutrition and Blood,09,Vitamins,0906,090601
+Vitamin B group,275521,296600,21079,0.07650596506255422,Nutrition and Blood,09,Vitamins,0906,090602
+Vitamin C,6033,6541,508,0.08420354715730151,Nutrition and Blood,09,Vitamins,0906,090603
+Vitamin D,1291533,1497351,205818,0.15935945887561526,Nutrition and Blood,09,Vitamins,0906,090604
+Vitamin E,1951,1150,-801,-0.4105586878523834,Nutrition and Blood,09,Vitamins,0906,090605
+Vitamin K,987,800,-187,-0.1894630192502533,Nutrition and Blood,09,Vitamins,0906,090606
+Zinc and other minerals,697,688,-9,-0.01291248206599713,Nutrition and Blood,09,Minerals,0905,090504
+NA,1793828,1368523,-425305,-0.23709352290186128,NA,NA,NA,NA,NA
