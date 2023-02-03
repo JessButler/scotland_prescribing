@@ -54,8 +54,9 @@ bnf_section <-
 rx <-
   rx %>%
   select(bnf_item_code, number_of_paid_items, paid_date_month) %>%
-  mutate(year = substr(paid_date_month, 1, 4)) %>%
-  select(-paid_date_month)
+  mutate(real_year = substr(paid_date_month, 1, 4),
+         year = ifelse(real_year %in% c(2018, 2019), 2019, 2022)) %>%
+  select(-paid_date_month, -real_year)
 
 rx_year <-
 rx %>%
